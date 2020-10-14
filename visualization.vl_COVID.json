@@ -1,0 +1,61 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 800,
+  "height": 600,
+  "data": {
+    "url": "https://raw.githubusercontent.com/LongB40/FIT3179/main/worldmap.json",
+    "format": {
+      "type": "topojson",
+      "feature": "worldmap"
+    }
+  },
+  "projection": {
+    "type": "mercator"
+  },
+  "transform": [
+    {
+      "lookup": "properties.admin",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/LongB40/FIT3179/main/covid_10_10_2020.csv",
+          "format": {
+            "type": "csv"
+          }
+        },
+        "key": "Country",
+        "fields": [
+          "Active"
+        ]
+      }
+    },
+    {
+      "calculate": "datum.Active + 0.1",
+      "as": "Active Cases"
+    }
+  ],
+  "mark": {
+    "type": "geoshape"
+  },
+  "encoding": {
+    "color": {
+      "field": "Active Cases",
+      "type": "quantitative",
+      "scale": {
+        "type": "log"
+      }
+    },
+    "tooltip": [
+      {
+        "field": "properties.admin",
+        "type": "nominal",
+        "title": "Country Name"
+      },
+      {
+        "field": "Active Cases",
+        "type": "quantitative",
+        "title": "Active Cases"
+      }
+    ]
+  },
+  "config": {}
+}
