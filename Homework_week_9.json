@@ -1,0 +1,48 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 800,
+  "height": 600,
+  "data": {
+    "url": "https://raw.githubusercontent.com/LongB40/FIT3179/main/worldmap.json",
+    "format": {"type": "topojson", "feature": "worldmap"}
+  },
+  "projection": {"type": "mercator"},
+  "transform": [
+    {
+      "lookup": "properties.name",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/LongB40/FIT3179/main/Num_of_trees.csv",
+          "format": {"type": "csv"}
+        },
+        "key": "country",
+        "fields": ["trees_no", "land_area_km"]
+      }
+    },
+    {
+      "calculate": "datum.trees_no/datum.land_area_km",
+      "as": "Number of Trees per sqr. Km"
+    }
+  ],
+  "mark": {"type": "geoshape", "stroke": "gray"},
+  "encoding": {
+    "color": {
+      "field": "Number of Trees per sqr. Km",
+      "type": "quantitative",
+      "scale": {
+        "type": "threshold",
+        "domain": [20000, 40000, 60000, 80000],
+        "range": ["#fdbe85", "#fd8d3c", "#e6550d", "#a63603"]
+      }
+    },
+    "tooltip": [
+      {"field": "properties.admin", "type": "nominal", "title": "Country Name"},
+      {
+        "field": "Number of Trees per sqr. Km",
+        "type": "quantitative",
+        "title": "Number of Trees per sqr. Km"
+      }
+    ]
+  },
+  "config": {}
+}
