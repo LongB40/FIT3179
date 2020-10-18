@@ -29,12 +29,7 @@
   "encoding": {
     "color": {
       "field": "Number of Trees per sqr. Km",
-      "type": "quantitative",
-      "scale": {
-        "type": "threshold",
-        "domain": [20000, 40000, 60000, 80000],
-        "range": ["#fdbe85", "#fd8d3c", "#e6550d", "#a63603"]
-      }
+      "type": "quantitative"
     },
     "tooltip": [
       {"field": "properties.admin", "type": "nominal", "title": "Country Name"},
