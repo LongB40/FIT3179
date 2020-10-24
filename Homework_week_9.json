@@ -25,7 +25,6 @@
       "as": "Number of Trees per sqr. Km"
     }
   ],
-  "mark": {"type": "geoshape", "stroke": "gray"},
   "encoding": {
     "color": {"field": "Number of Trees per sqr. Km", "type": "quantitative"},
     "tooltip": [
@@ -33,9 +32,11 @@
       {
         "field": "Number of Trees per sqr. Km",
         "type": "quantitative",
-        "title": "Number of Trees per sqr. Km"
+        "title": "Number of Trees per sqr. Km",
+        "format": ".2f"
       }
     ]
   },
+  "mark": {"type": "geoshape", "stroke": "gray"},
   "config": {}
 }
