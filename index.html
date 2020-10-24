@@ -9,16 +9,17 @@
 </head>
 <body>
 
-<div id="vis"></div>
+<div id="vis1">This is visualization 1</div>
+<div id="vis2">This is visualization 2</div>
 
 <script type="text/javascript">
   var spec1 = "https://LongB40.github.io/FIT3179/Homework_week_9.json";
-  vegaEmbed('#vis', spec).then(function(result) {
+  vegaEmbed('#vis1', spec).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
   
   var spec2 = "https://LongB40.github.io/FIT3179/Homework_week_10.json";
-  vegaEmbed('#vis', spec).then(function(result) {
+  vegaEmbed('#vis2', spec).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
