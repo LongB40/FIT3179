@@ -129,7 +129,7 @@
 15/11/1995,1995,Lynnville,Tennessee,N/A,HS,2,1
 28/11/1995,1995,queens,New York,urban,HS,1,0
 19/01/1996,1996,District of Columbia,District of Columbia,urban,MS,1,0
-19/01/1996,1996,Washington,D.C.,N/A,HS,1,0
+19/01/1996,1996,Washington,District of Columbia,N/A,HS,1,0
 26/01/1996,1996,memphis,Tennessee,urban,HS,1,0
 2/02/1996,1996,Moses Lake,Washington,suburban,MS,3,0
 2/02/1996,1996,Moses Lake,Washington,N/A,MS,3,1
@@ -280,7 +280,7 @@
 7/11/2003,2003,Sugar Land,Texas,urban,HS,1,0
 21/01/2004,2004,Henderson,Nevada,urban,ES,1,0
 2/02/2004,2004,District of Columbia,District Of Columbia,urban,HS,1,0
-2/02/2004,2004,Washington,D.C.,N/A,HS,1,0
+2/02/2004,2004,Washington,District of Columbia,N/A,HS,1,0
 9/02/2004,2004,East Greenbush,New York,suburban,HS,0,0
 9/02/2004,2004,East Greenbush,New York,N/A,-,0,1
 11/02/2004,2004,Philadelphia,Pennsylvania,urban,ES,1,0
@@ -626,7 +626,7 @@
 23/04/2016,2016,Antigo,Wisconsin,N/A,HS,1,2
 1/06/2016,2016,Los Angeles,California,N/A,C,2,0
 8/06/2016,2016,Dorchester,Massachusetts,N/A,HS,1,3
-6/09/2016,2016,Cedar Rapids,IA,N/A,HS,1,0
+6/09/2016,2016,Cedar Rapids,Iowa,N/A,HS,1,0
 9/09/2016,2016,Alpine,Texas,N/A,HS,1,2
 28/09/2016,2016,Townville,South Carolina,N/A,ES,2,2
 11/10/2016,2016,Mobile,Alabama,N/A,HS,0,1
