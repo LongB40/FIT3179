@@ -1,0 +1,136 @@
+State,area_type,Count of AreaType
+Alabama,N/A,11
+Alabama,suburban,5
+Alabama,urban,5
+Alaska,N/A,1
+Alaska,suburban,1
+Arizona,N/A,5
+Arizona,urban,6
+Arkansas,N/A,5
+Arkansas,rural,1
+Arkansas,urban,5
+California,N/A,36
+California,suburban,10
+California,urban,46
+Colorado,N/A,6
+Colorado,suburban,4
+Connecticut,N/A,3
+Connecticut,suburban,1
+Connecticut,urban,2
+Delaware,suburban,2
+Delaware,urban,1
+District of Columbia,urban,6
+Florida,N/A,25
+Florida,suburban,7
+Florida,urban,15
+Georgia,N/A,16
+Georgia,rural,1
+Georgia,suburban,7
+Georgia,urban,7
+Hawaii,N/A,1
+Hawaii,suburban,1
+Idaho,N/A,1
+Idaho,rural,1
+Illinois,N/A,11
+Illinois,suburban,2
+Illinois,urban,14
+Indiana,N/A,7
+Indiana,suburban,2
+Indiana,urban,2
+Iowa,N/A,4
+Iowa,rural,1
+Iowa,suburban,1
+Iowa,urban,1
+Kansas,urban,1
+Kentucky,N/A,5
+Kentucky,suburban,4
+Kentucky,urban,1
+Louisiana,N/A,7
+Louisiana,suburban,3
+Louisiana,urban,5
+Maine,rural,1
+Maryland,N/A,6
+Maryland,suburban,2
+Maryland,urban,4
+Massachusetts,N/A,5
+Massachusetts,suburban,3
+Massachusetts,urban,3
+Michigan,N/A,10
+Michigan,rural,1
+Michigan,suburban,4
+Michigan,urban,11
+Minnesota,N/A,2
+Minnesota,rural,2
+Minnesota,suburban,1
+Mississippi,N/A,3
+Mississippi,rural,2
+Mississippi,suburban,3
+Missouri,N/A,7
+Missouri,suburban,2
+Missouri,urban,5
+Montana,N/A,1
+Montana,suburban,1
+Nebraska,N/A,1
+Nebraska,urban,3
+Nevada,N/A,4
+Nevada,urban,4
+New Hampshire,suburban,1
+New Jersey,N/A,2
+New Mexico,N/A,4
+New Mexico,suburban,1
+New York,N/A,7
+New York,suburban,3
+New York,urban,10
+North Carolina,N/A,13
+North Carolina,rural,1
+North Carolina,suburban,2
+North Carolina,urban,12
+Ohio,N/A,12
+Ohio,suburban,5
+Ohio,urban,6
+Oklahoma,N/A,2
+Oklahoma,suburban,2
+Oklahoma,urban,1
+Oregon,N/A,6
+Oregon,suburban,2
+Oregon,urban,3
+Pennsylvania,N/A,12
+Pennsylvania,rural,4
+Pennsylvania,suburban,4
+Pennsylvania,urban,9
+Rhode Island,N/A,1
+South Carolina,N/A,6
+South Carolina,rural,1
+South Carolina,suburban,1
+South Carolina,urban,3
+South Dakota,N/A,1
+Tennessee,N/A,13
+Tennessee,rural,2
+Tennessee,suburban,3
+Tennessee,urban,12
+Texas,N/A,19
+Texas,rural,2
+Texas,suburban,4
+Texas,urban,29
+Utah,N/A,2
+Utah,urban,4
+Vermont,N/A,1
+Vermont,suburban,1
+Virgin Islands,urban,1
+Virginia,N/A,6
+Virginia,rural,1
+Virginia,suburban,1
+Virginia,urban,7
+Washington,N/A,13
+Washington,rural,1
+Washington,suburban,2
+Washington,urban,12
+West Virginia,N/A,1
+West Virginia,suburban,1
+Wisconsin,N/A,8
+Wisconsin,rural,1
+Wisconsin,suburban,2
+Wisconsin,urban,1
+Wyoming,N/A,1
+Wyoming,suburban,1
+Wyoming,suburban,1
