@@ -13,8 +13,12 @@
   ],
   "layer": [
     {
+      "title": {
+        "text": "School Shooting Incidents Location in USA",
+        "fontSize": 15
+      },
       "mark": {"type": "bar", "fill": "grey"},
-      "width": 800,
+      "width":"container",
       "height": 800,
       "encoding": {
         "y": {"field": "State", "type": "nominal", "title": "State"},

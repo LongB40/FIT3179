@@ -50,7 +50,7 @@
           "transform": [
             {"filter": "datum.Number_of_victims_per_10000_enrollments >= victims_range"}
           ],
-          "width": 800,
+          "width":"container",
           "height": 800,
           "selection": {
             "pts": {"type": "multi", "fields": ["State"]}
@@ -107,7 +107,7 @@
         {
           "title": {"text": "School Shooting Incidents Location in USA", "fontSize": 15},
           "mark": {"type": "bar", "fill":"grey"},
-          "width": 800,
+          "width":"container",
           "height": 800,
           "encoding": {
             "y": {"field": "State", "type": "nominal", "title": "State"},

@@ -36,6 +36,7 @@
       "as": "Number_of_victims_per_10000_enrollments"
     }
   ],
+  "title": {"text": "School Shooting in USA From 1990 - 2020", "fontSize": 20},
   "layer": [
     {"mark": {"type": "geoshape", "fill": "lightgrey"}},
     {
@@ -44,8 +45,8 @@
           "filter": "datum.Number_of_victims_per_10000_enrollments >= victims_range"
         }
       ],
-      "width": 800,
-      "height": 800,
+      "width":"container",
+      "height": "container"
       "selection": {"pts": {"type": "multi", "fields": ["State"]}},
       "projection": {"type": "albersUsa"},
       "mark": {"type": "geoshape", "stroke": "dimgray"},

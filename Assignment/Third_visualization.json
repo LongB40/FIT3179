@@ -10,7 +10,7 @@
       "as": "total_number_of_victims"
     }
   ],
-  "width": 800,
+  "width":"container",
   "height": 200,
   "selection": {"brush": {"type": "interval", "encodings": ["x"]}},
   "mark": {
