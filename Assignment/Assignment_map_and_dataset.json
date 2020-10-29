@@ -112,7 +112,7 @@
           "encoding": {
             "y": {"field": "State", "type": "nominal", "title": "State"},
             "x": {"aggregate": "sum", "field": "Count of AreaType", "type": "quantitative", "stack": "normalize"},
-            "color": {"field": "area_type", "type": "nominal"},
+            "color": {"field": "area_type", "type": "nominal", "title": "Area Type"},
             "opacity":{"value": 0.7}
           }
           
