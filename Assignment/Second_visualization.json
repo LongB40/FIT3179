@@ -39,7 +39,6 @@
     }
   ],
   "width":"container",
-  "height": "container",
   "encoding": {
     "color": {
       "field": "School",
