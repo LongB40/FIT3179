@@ -1,0 +1,150 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/LongB40/FIT3179/main/Assignment/USAMap",
+    "format": {
+      "type": "topojson",
+      "feature": "ne_110m_admin_1_states_provinces"
+    }
+  },
+  "params": [
+    {
+      "name": "victims_range",
+      "value": 0,
+      "bind": {
+        "input": "range",
+        "min": 0,
+        "max": 1.15,
+        "name": "Victims Range: "
+      }
+    }
+  ],
+   "transform": [
+    {
+      "lookup": "properties.name",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/LongB40/FIT3179/main/Assignment/total_num_wounded_fatalities.csv",
+          "format": {"type": "csv"}
+        },
+        "key": "State",
+        "fields": ["total_fatalities", "total_wounded","total_enroll", "State"]
+      }
+    },
+    {
+      "calculate": "(datum['total_fatalities']*1 + datum['total_wounded']*1)/datum.total_enroll * 10000",
+      "as": "Number_of_victims_per_10000_enrollments"
+    }
+  ],
+  "hconcat": [
+    {
+      
+      "title": {"text": "School Shooting in USA From 1990 - 2020", "fontSize": 20},
+      "layer": [
+        {
+          
+          "mark": {"type": "geoshape","fill": "lightgrey"}
+         
+        },
+        {
+          "transform": [
+            {"filter": "datum.Number_of_victims_per_10000_enrollments >= victims_range"}
+          ],
+          "width": 800,
+          "height": 800,
+          "selection": {
+            "pts": {"type": "multi", "fields": ["State"]}
+          },
+          "projection": {"type": "albersUsa"},
+          "mark": {"type": "geoshape","stroke": "dimgray"},
+          "encoding": {
+            "tooltip": [
+              {"field": "properties.name", "type": "nominal", "title": "State Name"},
+              {"field": "total_fatalities", "type": "quantitative", "title": "Total Fatalities"},
+              {"field": "total_wounded", "type": "quantitative", "title": "Total Wounded"},
+              {"field": "Number_of_victims_per_10000_enrollments", "type": "quantitative", "format": ".2f", "title": "Number of Victims per 10,000 enrollments"}
+            ],
+
+            "color": {
+              "field": "Number_of_victims_per_10000_enrollments", 
+              "type": "quantitative", 
+              "scale": {
+                "type": "threshold",
+                "domain": [0.1, 0.3, 0.5, 0.7, 0.9, 1.1],
+                "range": ["#ffffb2", "#fed976","#feb24c", "#fd8d3c", "#f03b20", "#bd0026"]
+              },
+              
+              "title": "Victims per 10,000 enrollments"
+            },
+            "opacity": {
+              "condition": {
+                "selection": "pts",
+                "value": 1
+              },
+              "value": 0.25
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "data": {
+          "url": "https://raw.githubusercontent.com/LongB40/FIT3179/main/Assignment/area_type.csv",
+          "format": {"type": "csv"}
+      },
+       "transform": [
+            {"filter": "datum.State != null"},
+            {
+              "calculate": "if(datum.area_type === 'N/A', 0, if(datum.area_type === 'suburban', 1, 2))",
+              "as": "areaTypeOrder"
+            },
+            {"filter": "pts.values == null || pts.values == datum.State"}
+            
+
+      ],
+      "layer": [
+        {
+          "title": {"text": "School Shooting Incidents Location in USA", "fontSize": 15},
+          "mark": {"type": "bar", "fill":"grey"},
+          "width": 800,
+          "height": 800,
+          "encoding": {
+            "y": {"field": "State", "type": "nominal", "title": "State"},
+            "x": {"aggregate": "sum", "field": "Count of AreaType", "type": "quantitative", "stack": "normalize"},
+            "color": {"field": "area_type", "type": "nominal"},
+            "opacity":{"value": 0.7}
+          }
+          
+        },
+        {
+          "mark": {"type": "bar"},
+          "encoding": {
+            "y": {"field": "State", "type": "nominal", "title": "State"},
+            "x": {"aggregate": "sum", "field": "Count of AreaType", "type": "quantitative", "title": "Total Number of Incidents (normalized)", "stack": "normalize"},
+            "color": {"field": "area_type", "type": "nominal"},
+            "opacity": {
+                  "condition": {
+                    "selection": "pts",
+                    "value": 1
+                  },
+                  "value": 0
+            },
+            "order": {"field": "areaTypeOrder"},
+            "tooltip": [
+                {"field": "State", "type": "nominal", "title": "State Name"},
+                {"field": "area_type", "type": "nominal", "title": "Area Type"},
+                {"field": "Count of AreaType", "type": "quantitative", "title": "Number of Incident"}
+            ]
+        
+          }
+        }
+      ]
+      
+      
+    }
+
+  ],
+
+  "config": {}
+}

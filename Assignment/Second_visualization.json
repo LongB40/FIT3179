@@ -1,0 +1,106 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/LongB40/FIT3179/main/Assignment/school_shooting_dataset.csv",
+    "format": {"type": "csv"}
+  },
+  "transform": [
+    {
+      "calculate": "(datum['Fatalities']*1 + datum['Wounded']*1)",
+      "as": "total_number_of_victims"
+    },
+    {"filter": "School_selection == null || datum.School == School_selection"}
+  ],
+  "params": [
+    {
+      "name": "School_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "College",
+          "High School",
+          "Elementary School",
+          "Middle School",
+          "Unknown",
+          "N/A"
+        ],
+        "labels": [
+          "Show All",
+          "College",
+          "High School",
+          "Middle School",
+          "Elementary School",
+          "Unknown",
+          "N/A"
+        ],
+        "name": "School Type Selection: "
+      }
+    }
+  ],
+  "width": 800,
+  "height": 600,
+  "encoding": {
+    "color": {
+      "field": "School",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "College",
+          "High School",
+          "Elementary School",
+          "Middle School",
+          "Unknown",
+          "N/A"
+        ],
+        "range": ["#1b9e77", "#d95f02", "#7570b3", "#e7298a", "#66a61e"]
+      }
+    }
+  },
+  "layer": [
+    {
+      "selection": {
+        "school_highlight": {
+          "type": "multi",
+          "fields": ["School"],
+          "bind": "legend"
+        }
+      },
+      "mark": {
+        "type": "line",
+        "interpolate": "monotone",
+        "point": {"filled": false, "fill": "white", "size": 80}
+      },
+      "encoding": {
+        "x": {"field": "Year", "type": "temporal"},
+        "y": {
+          "aggregate": "mean",
+          "field": "total_number_of_victims",
+          "type": "quantitative",
+          "title": "Average Number of Victims"
+        },
+        "opacity": {
+          "condition": [{"selection": "school_highlight", "value": 1}],
+          "value": 0
+        },
+        "tooltip": [
+          {
+            "timeUnit": "year",
+            "field": "Year",
+            "type": "temporal",
+            "title": "Year"
+          },
+          {"field": "School", "type": "nominal", "title": "Type School"},
+          {
+            "aggregate": "mean",
+            "field": "total_number_of_victims",
+            "type": "quantitative",
+            "title": "Average Number of Victims",
+            "format": ".2f"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {}
+}

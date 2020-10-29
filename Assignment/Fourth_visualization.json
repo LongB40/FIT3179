@@ -1,0 +1,61 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/LongB40/FIT3179/main/Assignment/area_type.csv",
+    "format": {"type": "csv"}
+  },
+  "transform": [
+    {"filter": "datum.State != null"},
+    {
+      "calculate": "if(datum.area_type === 'N/A', 0, if(datum.area_type === 'suburban', 1, 2))",
+      "as": "areaTypeOrder"
+    }
+  ],
+  "layer": [
+    {
+      "title": {
+        "text": "School Shooting Incidents Location in USA",
+        "fontSize": 15
+      },
+      "mark": {"type": "bar", "fill": "grey"},
+      "width": 800,
+      "height": 800,
+      "encoding": {
+        "y": {"field": "State", "type": "nominal", "title": "State"},
+        "x": {
+          "aggregate": "sum",
+          "field": "Count of AreaType",
+          "type": "quantitative",
+          "stack": "normalize"
+        },
+        "color": {"field": "area_type", "type": "nominal"},
+        "opacity": {"value": 0.7}
+      }
+    },
+    {
+      "mark": {"type": "bar"},
+      "encoding": {
+        "y": {"field": "State", "type": "nominal", "title": "State"},
+        "x": {
+          "aggregate": "sum",
+          "field": "Count of AreaType",
+          "type": "quantitative",
+          "title": "Total Number of Incidents (normalized)",
+          "stack": "normalize"
+        },
+        "color": {"field": "area_type", "type": "nominal"},
+        "order": {"field": "areaTypeOrder"},
+        "tooltip": [
+          {"field": "State", "type": "nominal", "title": "State Name"},
+          {"field": "area_type", "type": "nominal", "title": "Area Type"},
+          {
+            "field": "Count of AreaType",
+            "type": "quantitative",
+            "title": "Number of Incident"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {}
+}
