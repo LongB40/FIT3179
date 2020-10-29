@@ -44,8 +44,8 @@
           "filter": "School_selection == null || datum.School == School_selection"
         }
       ],
-      "width":"container",
-      "height": 600,
+      "width":650,
+      "height": 500,
       "encoding": {
         "color": {
           "field": "School",
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "width":"container",
+      "width":650,
       "height": 200,
       "selection": {"brush": {"type": "interval", "encodings": ["x"]}},
       "mark": {
