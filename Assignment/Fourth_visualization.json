@@ -4,6 +4,7 @@
     "url": "https://raw.githubusercontent.com/LongB40/FIT3179/main/Assignment/area_type.csv",
     "format": {"type": "csv"}
   },
+  "width":"container",
   "transform": [
     {"filter": "datum.State != null"},
     {
@@ -13,12 +14,7 @@
   ],
   "layer": [
     {
-      "title": {
-        "text": "School Shooting Incidents Location in USA",
-        "fontSize": 15
-      },
       "mark": {"type": "bar", "fill": "grey"},
-      "width":"container",
       "encoding": {
         "y": {"field": "State", "type": "nominal", "title": "State"},
         "x": {
