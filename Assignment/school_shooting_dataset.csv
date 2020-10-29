@@ -1,696 +1,696 @@
 Date,Year,City,State,AreaType,School,Fatalities,Wounded
-27/03/1990,1990,Brooklyn,New York,urban,C,0,1
-20/05/1990,1990,Centerville,Tennessee,suburban,HS,1,0
-26/08/1990,1990,Las Vegas,Nevada,urban,HS,1,0
-11/09/1990,1990,San Antonio,Texas,N/A,HS,0,3
-8/01/1991,1991,Richardson,Texas,urban,HS,0,0
-6/02/1991,1991,Donna,Texas,N/A,HS,1,0
-23/04/1991,1991,Compton,California,urban,MS,1,0
-23/04/1991,1991,Compton,California,N/A,MS,1,0
-18/09/1991,1991,Crosby,Texas,rural,HS,1,0
-18/09/1991,1991,Crosby,Texas,N/A,HS,1,0
-8/10/1991,1991,Bronx,New York,urban,HS,1,0
-1/11/1991,1991,Iowa City,Iowa,urban,C,5,0
-1/11/1991,1991,Iowa City,Iowa,N/A,C,6,1
-14/11/1991,1991,Houston,Texas,urban,HS,0,0
-25/11/1991,1991,Brooklyn,New York,urban,HS,1,0
-25/11/1991,1991,Brooklyn,New York,N/A,HS,1,0
-12/12/1991,1991,Kent,Ohio,N/A,C,1,0
-29/01/1992,1992,Kent,Ohio,N/A,C,0,1
-26/02/1992,1992,Brooklyn,New York,urban,HS,2,0
-26/02/1992,1992,Brooklyn,New York,N/A,HS,2,0
-1/05/1992,1992,Olivehurst,California,suburban,HS,4,0
-1/05/1992,1992,Olivehurst,California,N/A,HS,3,10
-14/05/1992,1992,Napa,California,urban,MS,0,0
-11/09/1992,1992,Lincoln,Texas,urban,HS,0,0
-12/10/1992,1992,Lincoln,Nebraska,urban,C,0,0
-12/10/1992,1992,Tucson,Arizona,urban,HS,1,0
-19/10/1992,1992,The Bronx,New York,N/A,HS,0,3
-4/11/1992,1992,Detroit,Michigan,N/A,HS,0,11
-10/11/1992,1992,Chicago,Illinois,urban,ES,0,0
-13/11/1992,1992,Houston,Texas,urban,HS,1,0
-16/11/1992,1992,Birmingham,Alabama,urban,HS,1,0
-20/11/1992,1992,Chicago,Illinois,urban,HS,1,0
-23/11/1992,1992,Buffalo,New York,urban,HS,0,0
-3/12/1992,1992,Chicago,Illinois,urban,ES,1,0
-14/12/1992,1992,Great Barrington,Massachusetts,suburban,C,2,0
-14/12/1992,1992,Great Barrington,Massachusetts,N/A,C,2,4
-6/01/1993,1993,Brentwood,New York,N/A,HS,0,1
-8/01/1993,1993,Kinzers,Pennsylvania,rural,HS,1,0
-12/01/1993,1993,Miami,Florida,urban,HS,1,0
-18/01/1993,1993,Grayson,Kentucky,suburban,HS,2,0
-18/01/1993,1993,Grayson,Kentucky,N/A,HS,2,0
-21/01/1993,1993,Los Angeles,California,urban,HS,1,0
-1/02/1993,1993,Redmond,Washington,urban,MS,1,0
-1/02/1993,1993,Amityville,New York,suburban,HS,1,0
-4/02/1993,1993,Clayton County,Georgia,urban,HS,1,0
-8/02/1993,1993,Middle River,Minnesota,rural,MS,1,0
-8/02/1993,1993,Washington DC,District of Columbia,urban,HS,1,0
-18/02/1993,1993,Dallas,Texas,urban,HS,1,0
-22/02/1993,1993,Los Angeles,California,urban,HS,1,0
-22/02/1993,1993,Los Angeles,California,N/A,HS,1,0
-26/02/1993,1993,Gloucester,Massachusetts,suburban,HS,0,0
-18/03/1993,1993,Harlem,Georgia,suburban,HS,1,0
-25/03/1993,1993,St. Louis,Missouri,urban,HS,1,0
-3/04/1993,1993,Sacramento,California,urban,HS,1,0
-14/04/1993,1993,Irving,Texas,urban,HS,1,0
-15/04/1993,1993,Acushnet,Massachusetts,suburban,MS,1,0
-15/04/1993,1993,Acushnet,Massachusetts,N/A,MS,1,0
-16/04/1993,1993,Sacramento,California,urban,HS,1,0
-26/04/1993,1993,Raleigh,North Carolina,urban,HS,1,0
-14/05/1993,1993,Irving,Texas,N/A,HS,1,0
-24/05/1993,1993,Red Hill,Pennsylvania,rural,HS,1,0
-24/05/1993,1993,Pennsburg,Pennsylvania,N/A,HS,1,0
-27/05/1993,1993,New Orleans,Louisiana,urban,HS,1,0
-8/07/1993,1993,Ogden,Utah,urban,C,1,0
-31/08/1993,1993,Atlanta,Georgia,urban,HS,1,0
-2/09/1993,1993,Dallas,Texas,urban,HS,1,0
-17/09/1993,1993,Sheridan,Wyoming,N/A,MS,1,4
-18/09/1993,1993,Sheridan,Wyoming,suburban,MS,1,0
-12/10/1993,1993,New Castle,Delaware,suburban,HS,1,0
-14/10/1993,1993,Detroit,Michigan,urban,HS,1,0
-1/11/1993,1993,Chicago,Illinois,urban,HS,1,0
-4/11/1993,1993,Jacksonville,Florida,urban,HS,1,0
-4/11/1993,1993,New Britain,Connecticut,urban,HS,1,0
-4/11/1993,1993,New Britain,Connecticut,N/A,HS,1,0
-5/11/1993,1993,Bay Springs,Mississippi,rural,HS,1,0
-29/11/1993,1993,Kansas City,Missouri,urban,HS,1,0
-1/12/1993,1993,Wauwatosa,Wisconsin,suburban,HS,1,0
-1/12/1993,1993,Wauwatosa,Wisconsin,N/A,HS,1,0
-8/12/1993,1993,Savannah,Georgia,urban,HS,1,0
-17/12/1993,1993,Chelsea,Michigan,suburban,HS,1,0
-20/01/1994,1994,Kennard,Texas,rural,HS,0,0
-20/01/1994,1994,Hacienda Heights,California,urban,HS,1,0
-24/01/1994,1994,Columbia,South Carolina,N/A,HS,1,0
-26/01/1994,1994,Columbia,South Carolina,urban,HS,1,0
-31/01/1994,1994,Seattle,Washington,urban,MS,1,0
-31/01/1994,1994,Seattle,Washington,N/A,MS,1,0
-8/02/1994,1994,Detroit,Michigan,urban,HS,1,0
-14/02/1994,1994,Belmont,California,suburban,HS,1,0
-18/02/1994,1994,Spartanburg,South Carolina,N/A,HS,0,1
-1/03/1994,1994,Boonville,Missouri,suburban,C,2,0
-1/03/1994,1994,Boonville,Missouri,N/A,HS,2,0
-15/03/1994,1994,Charleston,South Carolina,urban,HS,1,0
-22/03/1994,1994,Riveria Beach,Florida,urban,MS,0,0
-23/03/1994,1994,Seattle,Washington,urban,HS,1,0
-25/03/1994,1994,Woodstock,Georgia,suburban,HS,0,0
-12/04/1994,1994,Butte,Montana,suburban,ES,1,0
-12/04/1994,1994,Butte,Montana,N/A,ES,1,0
-13/04/1994,1994,Los Angeles,California,urban,ES,0,0
-21/04/1994,1994,Nashville,Tennessee,urban,MS,1,0
-21/04/1994,1994,Nashville,Tennessee,N/A,MS,1,0
-2/05/1994,1994,North Miami,Florida,suburban,HS,1,0
-25/05/1994,1994,Union,Kentucky,suburban,HS,4,0
-25/07/1994,1994,Ottumwa,Iowa,suburban,HS,1,0
-7/09/1994,1994,Hollywood,California,urban,HS,1,0
-12/10/1994,1994,Greensboro,North Carolina,urban,HS,1,0
-12/10/1994,1994,Greensboro,North Carolina,N/A,HS,1,1
-17/10/1994,1994,Chicago,Illinois,N/A,HS,0,1
-5/11/1994,1994,San Leandro,California,urban,ES,1,0
-7/11/1994,1994,Wickliffe,Ohio,suburban,MS,1,0
-7/11/1994,1994,Wickliffe,Ohio,N/A,MS,1,4
-15/11/1994,1994,Tacoma,Washington,urban,HS,1,0
-14/12/1994,1994,Albany,New York,N/A,C,0,1
-5/01/1995,1995,Washington DC,District of Columbia,urban,HS,1,0
-10/01/1995,1995,Palm Beach Gardens,Florida,suburban,HS,0,0
-12/01/1995,1995,Seattle,Washington,urban,HS,0,0
-12/01/1995,1995,Seattle,Washington,N/A,HS,0,2
-23/01/1995,1995,Redlands,California,urban,MS,1,0
-26/01/1995,1995,Chapel Hill,North Carolina,urban,C,2,0
-2/02/1995,1995,Long Beach,California,urban,HS,1,0
-29/08/1995,1995,Laredo,Texas,urban,MS,1,0
-12/09/1995,1995,Memphis,Tennessee,urban,HS,1,0
-14/09/1995,1995,Olathe,Kansas,urban,HS,2,0
-29/09/1995,1995,Tavares,Florida,urban,MS,1,0
-29/09/1995,1995,Tavares,Florida,N/A,MS,1,0
-12/10/1995,1995,Blackville,South Carolina,rural,HS,1,0
-12/10/1995,1995,Blackville,South Carolina,N/A,HS,2,1
-15/11/1995,1995,Lynnville,Tennessee,rural,HS,2,0
-15/11/1995,1995,Lynnville,Tennessee,N/A,HS,2,1
-28/11/1995,1995,queens,New York,urban,HS,1,0
-19/01/1996,1996,District of Columbia,District of Columbia,urban,MS,1,0
-19/01/1996,1996,Washington,District of Columbia,N/A,HS,1,0
-26/01/1996,1996,memphis,Tennessee,urban,HS,1,0
-2/02/1996,1996,Moses Lake,Washington,suburban,MS,3,0
-2/02/1996,1996,Moses Lake,Washington,N/A,MS,3,1
-8/02/1996,1996,Palo Alto,California,urban,HS,1,0
-29/02/1996,1996,St. Louis,Missouri,N/A,HS,1,1
-11/03/1996,1996,New London,North Carolina,rural,HS,1,0
-11/04/1996,1996,Talledega,Alabama,suburban,HS,1,0
-4/06/1996,1996,Hemet,California,urban,HS,1,0
-15/08/1996,1996,San Diego,California,urban,C,3,0
-15/08/1996,1996,San Diego,California,N/A,C,3,0
-26/08/1996,1996,San Antonio,Texas,urban,C,1,0
-17/09/1996,1996,State College,Pennsylvania,urban,C,1,0
-17/09/1996,1996,State College,Pennsylvania,N/A,C,1,2
-25/09/1996,1996,Scottdale,Georgia,suburban,HS,1,0
-25/09/1996,1996,Decatur,Georgia,N/A,HS,1,2
-2/10/1996,1996,Philadelphia,Pennsylvania,urban,ES,2,0
-4/10/1996,1996,Playa del Rey,California,suburban,HS,1,0
-9/10/1996,1996,Sherwood,Arkansas,N/A,-,1,0
-13/10/1996,1996,St. Louis,Missouri,urban,HS,1,0
-16/10/1996,1996,West Lafayette,Indiana,suburban,C,1,0
-27/11/1996,1996,Sacramento,California,urban,HS,1,0
-11/01/1997,1997,Brooklyn,New York,urban,HS,1,0
-27/01/1997,1997,West Palm Beach,Florida,urban,MS,1,0
-27/01/1997,1997,West Palm Beach,Florida,N/A,MS,1,0
+27/03/1990,1990,Brooklyn,New York,urban,College,0,1
+20/05/1990,1990,Centerville,Tennessee,suburban,High School,1,0
+26/08/1990,1990,Las Vegas,Nevada,urban,High School,1,0
+11/09/1990,1990,San Antonio,Texas,N/A,High School,0,3
+8/01/1991,1991,Richardson,Texas,urban,High School,0,0
+6/02/1991,1991,Donna,Texas,N/A,High School,1,0
+23/04/1991,1991,Compton,California,urban,Middle School,1,0
+23/04/1991,1991,Compton,California,N/A,Middle School,1,0
+18/09/1991,1991,Crosby,Texas,rural,High School,1,0
+18/09/1991,1991,Crosby,Texas,N/A,High School,1,0
+8/10/1991,1991,Bronx,New York,urban,High School,1,0
+1/11/1991,1991,Iowa City,Iowa,urban,College,5,0
+1/11/1991,1991,Iowa City,Iowa,N/A,College,6,1
+14/11/1991,1991,Houston,Texas,urban,High School,0,0
+25/11/1991,1991,Brooklyn,New York,urban,High School,1,0
+25/11/1991,1991,Brooklyn,New York,N/A,High School,1,0
+12/12/1991,1991,Kent,Ohio,N/A,College,1,0
+29/01/1992,1992,Kent,Ohio,N/A,College,0,1
+26/02/1992,1992,Brooklyn,New York,urban,High School,2,0
+26/02/1992,1992,Brooklyn,New York,N/A,High School,2,0
+1/05/1992,1992,Olivehurst,California,suburban,High School,4,0
+1/05/1992,1992,Olivehurst,California,N/A,High School,3,10
+14/05/1992,1992,Napa,California,urban,Middle School,0,0
+11/09/1992,1992,Lincoln,Texas,urban,High School,0,0
+12/10/1992,1992,Lincoln,Nebraska,urban,College,0,0
+12/10/1992,1992,Tucson,Arizona,urban,High School,1,0
+19/10/1992,1992,The Bronx,New York,N/A,High School,0,3
+4/11/1992,1992,Detroit,Michigan,N/A,High School,0,11
+10/11/1992,1992,Chicago,Illinois,urban,Elementary School,0,0
+13/11/1992,1992,Houston,Texas,urban,High School,1,0
+16/11/1992,1992,Birmingham,Alabama,urban,High School,1,0
+20/11/1992,1992,Chicago,Illinois,urban,High School,1,0
+23/11/1992,1992,Buffalo,New York,urban,High School,0,0
+3/12/1992,1992,Chicago,Illinois,urban,Elementary School,1,0
+14/12/1992,1992,Great Barrington,Massachusetts,suburban,College,2,0
+14/12/1992,1992,Great Barrington,Massachusetts,N/A,College,2,4
+6/01/1993,1993,Brentwood,New York,N/A,High School,0,1
+8/01/1993,1993,Kinzers,Pennsylvania,rural,High School,1,0
+12/01/1993,1993,Miami,Florida,urban,High School,1,0
+18/01/1993,1993,Grayson,Kentucky,suburban,High School,2,0
+18/01/1993,1993,Grayson,Kentucky,N/A,High School,2,0
+21/01/1993,1993,Los Angeles,California,urban,High School,1,0
+1/02/1993,1993,Redmond,Washington,urban,Middle School,1,0
+1/02/1993,1993,Amityville,New York,suburban,High School,1,0
+4/02/1993,1993,Clayton County,Georgia,urban,High School,1,0
+8/02/1993,1993,Middle River,Minnesota,rural,Middle School,1,0
+8/02/1993,1993,Washington DC,District of Columbia,urban,High School,1,0
+18/02/1993,1993,Dallas,Texas,urban,High School,1,0
+22/02/1993,1993,Los Angeles,California,urban,High School,1,0
+22/02/1993,1993,Los Angeles,California,N/A,High School,1,0
+26/02/1993,1993,Gloucester,Massachusetts,suburban,High School,0,0
+18/03/1993,1993,Harlem,Georgia,suburban,High School,1,0
+25/03/1993,1993,St. Louis,Missouri,urban,High School,1,0
+3/04/1993,1993,Sacramento,California,urban,High School,1,0
+14/04/1993,1993,Irving,Texas,urban,High School,1,0
+15/04/1993,1993,Acushnet,Massachusetts,suburban,Middle School,1,0
+15/04/1993,1993,Acushnet,Massachusetts,N/A,Middle School,1,0
+16/04/1993,1993,Sacramento,California,urban,High School,1,0
+26/04/1993,1993,Raleigh,North Carolina,urban,High School,1,0
+14/05/1993,1993,Irving,Texas,N/A,High School,1,0
+24/05/1993,1993,Red Hill,Pennsylvania,rural,High School,1,0
+24/05/1993,1993,Pennsburg,Pennsylvania,N/A,High School,1,0
+27/05/1993,1993,New Orleans,Louisiana,urban,High School,1,0
+8/07/1993,1993,Ogden,Utah,urban,College,1,0
+31/08/1993,1993,Atlanta,Georgia,urban,High School,1,0
+2/09/1993,1993,Dallas,Texas,urban,High School,1,0
+17/09/1993,1993,Sheridan,Wyoming,N/A,Middle School,1,4
+18/09/1993,1993,Sheridan,Wyoming,suburban,Middle School,1,0
+12/10/1993,1993,New Castle,Delaware,suburban,High School,1,0
+14/10/1993,1993,Detroit,Michigan,urban,High School,1,0
+1/11/1993,1993,Chicago,Illinois,urban,High School,1,0
+4/11/1993,1993,Jacksonville,Florida,urban,High School,1,0
+4/11/1993,1993,New Britain,Connecticut,urban,High School,1,0
+4/11/1993,1993,New Britain,Connecticut,N/A,High School,1,0
+5/11/1993,1993,Bay Springs,Mississippi,rural,High School,1,0
+29/11/1993,1993,Kansas City,Missouri,urban,High School,1,0
+1/12/1993,1993,Wauwatosa,Wisconsin,suburban,High School,1,0
+1/12/1993,1993,Wauwatosa,Wisconsin,N/A,High School,1,0
+8/12/1993,1993,Savannah,Georgia,urban,High School,1,0
+17/12/1993,1993,Chelsea,Michigan,suburban,High School,1,0
+20/01/1994,1994,Kennard,Texas,rural,High School,0,0
+20/01/1994,1994,Hacienda Heights,California,urban,High School,1,0
+24/01/1994,1994,Columbia,South Carolina,N/A,High School,1,0
+26/01/1994,1994,Columbia,South Carolina,urban,High School,1,0
+31/01/1994,1994,Seattle,Washington,urban,Middle School,1,0
+31/01/1994,1994,Seattle,Washington,N/A,Middle School,1,0
+8/02/1994,1994,Detroit,Michigan,urban,High School,1,0
+14/02/1994,1994,Belmont,California,suburban,High School,1,0
+18/02/1994,1994,Spartanburg,South Carolina,N/A,High School,0,1
+1/03/1994,1994,Boonville,Missouri,suburban,College,2,0
+1/03/1994,1994,Boonville,Missouri,N/A,High School,2,0
+15/03/1994,1994,Charleston,South Carolina,urban,High School,1,0
+22/03/1994,1994,Riveria Beach,Florida,urban,Middle School,0,0
+23/03/1994,1994,Seattle,Washington,urban,High School,1,0
+25/03/1994,1994,Woodstock,Georgia,suburban,High School,0,0
+12/04/1994,1994,Butte,Montana,suburban,Elementary School,1,0
+12/04/1994,1994,Butte,Montana,N/A,Elementary School,1,0
+13/04/1994,1994,Los Angeles,California,urban,Elementary School,0,0
+21/04/1994,1994,Nashville,Tennessee,urban,Middle School,1,0
+21/04/1994,1994,Nashville,Tennessee,N/A,Middle School,1,0
+2/05/1994,1994,North Miami,Florida,suburban,High School,1,0
+25/05/1994,1994,Union,Kentucky,suburban,High School,4,0
+25/07/1994,1994,Ottumwa,Iowa,suburban,High School,1,0
+7/09/1994,1994,Hollywood,California,urban,High School,1,0
+12/10/1994,1994,Greensboro,North Carolina,urban,High School,1,0
+12/10/1994,1994,Greensboro,North Carolina,N/A,High School,1,1
+17/10/1994,1994,Chicago,Illinois,N/A,High School,0,1
+5/11/1994,1994,San Leandro,California,urban,Elementary School,1,0
+7/11/1994,1994,Wickliffe,Ohio,suburban,Middle School,1,0
+7/11/1994,1994,Wickliffe,Ohio,N/A,Middle School,1,4
+15/11/1994,1994,Tacoma,Washington,urban,High School,1,0
+14/12/1994,1994,Albany,New York,N/A,College,0,1
+5/01/1995,1995,Washington DC,District of Columbia,urban,High School,1,0
+10/01/1995,1995,Palm Beach Gardens,Florida,suburban,High School,0,0
+12/01/1995,1995,Seattle,Washington,urban,High School,0,0
+12/01/1995,1995,Seattle,Washington,N/A,High School,0,2
+23/01/1995,1995,Redlands,California,urban,Middle School,1,0
+26/01/1995,1995,Chapel Hill,North Carolina,urban,College,2,0
+2/02/1995,1995,Long Beach,California,urban,High School,1,0
+29/08/1995,1995,Laredo,Texas,urban,Middle School,1,0
+12/09/1995,1995,Memphis,Tennessee,urban,High School,1,0
+14/09/1995,1995,Olathe,Kansas,urban,High School,2,0
+29/09/1995,1995,Tavares,Florida,urban,Middle School,1,0
+29/09/1995,1995,Tavares,Florida,N/A,Middle School,1,0
+12/10/1995,1995,Blackville,South Carolina,rural,High School,1,0
+12/10/1995,1995,Blackville,South Carolina,N/A,High School,2,1
+15/11/1995,1995,Lynnville,Tennessee,rural,High School,2,0
+15/11/1995,1995,Lynnville,Tennessee,N/A,High School,2,1
+28/11/1995,1995,queens,New York,urban,High School,1,0
+19/01/1996,1996,District of Columbia,District of Columbia,urban,Middle School,1,0
+19/01/1996,1996,Washington,District of Columbia,N/A,High School,1,0
+26/01/1996,1996,memphis,Tennessee,urban,High School,1,0
+2/02/1996,1996,Moses Lake,Washington,suburban,Middle School,3,0
+2/02/1996,1996,Moses Lake,Washington,N/A,Middle School,3,1
+8/02/1996,1996,Palo Alto,California,urban,High School,1,0
+29/02/1996,1996,St. Louis,Missouri,N/A,High School,1,1
+11/03/1996,1996,New London,North Carolina,rural,High School,1,0
+11/04/1996,1996,Talledega,Alabama,suburban,High School,1,0
+4/06/1996,1996,Hemet,California,urban,High School,1,0
+15/08/1996,1996,San Diego,California,urban,College,3,0
+15/08/1996,1996,San Diego,California,N/A,College,3,0
+26/08/1996,1996,San Antonio,Texas,urban,College,1,0
+17/09/1996,1996,State College,Pennsylvania,urban,College,1,0
+17/09/1996,1996,State College,Pennsylvania,N/A,College,1,2
+25/09/1996,1996,Scottdale,Georgia,suburban,High School,1,0
+25/09/1996,1996,Decatur,Georgia,N/A,High School,1,2
+2/10/1996,1996,Philadelphia,Pennsylvania,urban,Elementary School,2,0
+4/10/1996,1996,Playa del Rey,California,suburban,High School,1,0
+9/10/1996,1996,Sherwood,Arkansas,N/A,Unknown,1,0
+13/10/1996,1996,St. Louis,Missouri,urban,High School,1,0
+16/10/1996,1996,West Lafayette,Indiana,suburban,College,1,0
+27/11/1996,1996,Sacramento,California,urban,High School,1,0
+11/01/1997,1997,Brooklyn,New York,urban,High School,1,0
+27/01/1997,1997,West Palm Beach,Florida,urban,Middle School,1,0
+27/01/1997,1997,West Palm Beach,Florida,N/A,Middle School,1,0
 31/01/1997,1997,Tulsa,Oklahoma,urban,N/A,1,0
-19/02/1997,1997,Bethel,Alaska,suburban,HS,2,0
-19/02/1997,1997,Bethel,Alaska,N/A,HS,2,2
-20/02/1997,1997,Jacksonville,Florida,urban,HS,1,0
-18/03/1997,1997,Detroit,Michigan,urban,HS,1,0
-1/10/1997,1997,Pearl,Mississippi,suburban,HS,3,0
-1/10/1997,1997,Pearl,Mississippi,N/A,HS,3,7
-14/10/1997,1997,Garland,Texas,urban,HS,1,0
-15/10/1997,1997,Palmetto,Florida,N/A,MS,0,1
-22/10/1997,1997,Norwalk,California,urban,HS,2,0
-13/11/1997,1997,Sacramento,California,urban,ES,1,0
-1/12/1997,1997,West Paducah,Kentucky,suburban,HS,3,0
-1/12/1997,1997,West Paducah,Kentucky,N/A,HS,3,5
-15/12/1997,1997,Stamps,Arkansas,rural,HS,2,0
-15/12/1997,1997,Stamps,Arkansas,N/A,HS,0,2
-25/02/1998,1998,Reed City,Michigan,rural,HS,1,0
-1/03/1998,1998,Philadelphia,Pennsylvania,N/A,C,1,3
-24/03/1998,1998,Jonesboro,Arkansas,urban,MS,5,0
-24/03/1998,1998,Craighead County,Arkansas,N/A,MS,5,10
-25/03/1998,1998,Coldwater,Michigan,suburban,HS,1,0
-30/03/1998,1998,Chapel Hill,North Carolina,urban,MS,0,0
-24/04/1998,1998,Edinboro,Pennsylvania,suburban,HS,1,0
-24/04/1998,1998,Edinboro,Pennsylvania,N/A,MS,1,3
-28/04/1998,1998,Pomona,California,urban,ES,2,0
-1/05/1998,1998,Buffalo,New York,urban,ES,1,0
-19/05/1998,1998,Fayetteville,Tennessee,suburban,HS,1,0
-19/05/1998,1998,Fayetteville,Tennessee,N/A,HS,1,0
-21/05/1998,1998,Springfield,Oregon,urban,HS,4,0
-21/05/1998,1998,Rialto,California,urban,HS,1,0
-21/05/1998,1998,Springfield,Oregon,N/A,HS,4,23
-27/05/1998,1998,Pasadena,California,urban,MS,0,0
-29/05/1998,1998,Fort Lauderdale,Florida,urban,HS,2,0
-15/06/1998,1998,Richmond,Virginia,urban,HS,0,0
-15/06/1998,1998,Richmond,Virginia,N/A,HS,0,2
-4/09/1998,1998,San Bernardino,California,urban,C,2,0
-12/09/1998,1998,Glendale,California,urban,HS,0,0
-10/12/1998,1998,Detroit,Michigan,urban,C,1,0
-10/12/1998,1998,Detroit,Michigan,N/A,C,1,0
-8/01/1999,1999,Carollton,Georgia,suburban,HS,2,0
-8/01/1999,1999,Carrollton,Georgia,N/A,HS,1,1
-21/01/1999,1999,North Richland Hills,Texas,urban,HS,1,0
-11/02/1999,1999,Elgin,Illinois,urban,HS,0,0
-16/04/1999,1999,Notus,Idaho,rural,HS,0,0
-16/04/1999,1999,Notus,Idaho,N/A,HS,0,0
-20/04/1999,1999,Littleton,Colorado,suburban,HS,15,0
-20/04/1999,1999,Littleton,Colorado,N/A,HS,15,21
-23/04/1999,1999,Atlanta,Georgia,urban,MS,1,0
-20/05/1999,1999,Conyers,Georgia,suburban,HS,0,0
-20/05/1999,1999,Conyers,Georgia,N/A,HS,0,6
-25/08/1999,1999,Monticello,Georgia,suburban,HS,1,0
-7/09/1999,1999,Plano,Texas,urban,HS,1,0
-9/09/1999,1999,San Jose,California,urban,HS,1,0
-19/11/1999,1999,Deming,New Mexico,suburban,MS,0,0
-19/11/1999,1999,Deming,New Mexico,N/A,MS,1,0
-6/12/1999,1999,Fort Gibson,Oklahoma,suburban,MS,0,0
-6/12/1999,1999,Fort Gibson,Oklahoma,N/A,MS,0,6
-19/01/2000,2000,New Port Richey,Florida,suburban,HS,0,0
-29/02/2000,2000,Flint,Michigan,urban,ES,1,0
-29/02/2000,2000,Flint,Michigan,N/A,ES,1,0
-10/05/2000,2000,Sierra Vista,Arizona,urban,ES,2,0
-26/05/2000,2000,Lake Worth,Florida,suburban,MS,1,0
-26/05/2000,2000,Lake Worth,Florida,N/A,MS,1,0
-28/06/2000,2000,Seattle,Washington,urban,C,2,0
-26/07/2000,2000,Canton,Ohio,urban,HS,1,0
-28/08/2000,2000,Fayetteville,Arkansas,urban,C,2,0
-28/08/2000,2000,Fayetteville,Arkansas,N/A,C,2,0
-5/09/2000,2000,Bidwell,Ohio,suburban,ES,2,0
-26/09/2000,2000,New Orleans,Louisiana,urban,MS,0,0
-26/09/2000,2000,New Orleans,Louisiana,N/A,-,0,2
-23/10/2000,2000,Los Angeles,California,urban,C,1,0
-26/10/2000,2000,Brooklyn,New York,urban,HS,1,0
-27/10/2000,2000,Memphis,Tennessee,urban,HS,1,0
-1/12/2000,2000,Granada Hills,California,urban,HS,0,0
-1/12/2000,2000,San Diego,California,N/A,HS,0,1
-10/01/2001,2001,Oxnard,California,urban,HS,1,0
-17/01/2001,2001,Baltimore,Maryland,urban,HS,1,0
-29/01/2001,2001,Arlington,Texas,urban,MS,1,0
-2/03/2001,2001,San Diego,California,urban,HS,0,0
-5/03/2001,2001,Santee,California,urban,HS,2,0
-5/03/2001,2001,Santee,California,N/A,HS,2,13
-7/03/2001,2001,Williamsport,Pennsylvania,urban,HS,0,0
-7/03/2001,2001,Williamsport,Pennsylvania,N/A,HS,0,1
-22/03/2001,2001,El Cajon,California,urban,HS,0,0
-22/03/2001,2001,El Cajon,California,N/A,HS,0,5
-30/03/2001,2001,Gary,Indiana,urban,HS,1,0
-30/03/2001,2001,Gary,Indiana,N/A,HS,1,0
-3/04/2001,2001,Klein,Texas,urban,MS,0,0
-25/04/2001,2001,Cleveland,Ohio,urban,HS,1,0
-15/05/2001,2001,Ennis,Texas,suburban,HS,0,0
-16/05/2001,2001,Parkland,Washington,N/A,C,2,0
-17/05/2001,2001,Pierce County,Washington,urban,C,1,0
-12/10/2001,2001,Taylorsville,Utah,urban,HS,0,0
-12/11/2001,2001,Caro,Michigan,suburban,HS,0,0
-15/01/2002,2002,New York City,New York,urban,HS,0,0
-15/01/2002,2002,New York City,New York,N/A,HS,0,2
-16/01/2002,2002,Gundy,Virginia,rural,C,3,0
-16/01/2002,2002,Grundy,Virginia,N/A,C,3,3
-20/02/2002,2002,Milwaukee,Wisconsin,N/A,HS,1,0
-11/06/2002,2002,Conception,Missouri,N/A,-,3,2
-26/07/2002,2002,Charlotte,North Carolina,urban,MS,1,0
-4/10/2002,2002,San Antonio,Texas,urban,MS,1,0
-7/10/2002,2002,Bowie,Maryland,urban,MS,0,0
-7/10/2002,2002,Bowie,Maryland,N/A,MS,0,1
-28/10/2002,2002,Tucson,Arizona,urban,C,4,0
-28/10/2002,2002,Tucson,Arizona,N/A,C,4,0
-29/10/2002,2002,Jersey City,New Jersey,N/A,HS,0,1
-7/11/2002,2002,Liberty,Missouri,suburban,ES,1,0
-16/12/2002,2002,Chicago,Illinois,urban,HS,1,0
-23/03/2003,2003,Meridian,Mississippi,suburban,HS,0,0
-10/04/2003,2003,Walnut,California,suburban,HS,0,0
-14/04/2003,2003,New Orleans,Louisiana,urban,HS,1,0
-14/04/2003,2003,New Orleans,Louisiana,N/A,HS,1,3
-17/04/2003,2003,Addison,Texas,suburban,ES,1,0
-24/04/2003,2003,Red Lion,Pennsylvania,suburban,MS,1,0
-24/04/2003,2003,Red Lion,Pennsylvania,N/A,HS,2,0
-9/05/2003,2003,Cleveland,Ohio,urban,C,1,0
-9/05/2003,2003,Cleveland,Ohio,N/A,C,1,2
-13/05/2003,2003,Johnstown,Pennsylvania,urban,HS,1,0
-4/06/2003,2003,Wellsboro,Pennsylvania,suburban,MS,0,0
-15/07/2003,2003,Dallas,Texas,urban,HS,0,0
-24/09/2003,2003,Cold Spring,Minnesota,suburban,HS,2,0
-24/09/2003,2003,Cold Spring,Minnesota,N/A,HS,2,0
-30/10/2003,2003,Washington,District Of Columbia,urban,HS,1,0
-7/11/2003,2003,Sugar Land,Texas,urban,HS,1,0
-21/01/2004,2004,Henderson,Nevada,urban,ES,1,0
-2/02/2004,2004,District of Columbia,District Of Columbia,urban,HS,1,0
-2/02/2004,2004,Washington,District of Columbia,N/A,HS,1,0
-9/02/2004,2004,East Greenbush,New York,suburban,HS,0,0
-9/02/2004,2004,East Greenbush,New York,N/A,-,0,1
-11/02/2004,2004,Philadelphia,Pennsylvania,urban,ES,1,0
-17/03/2004,2004,Joyce,Washington,rural,MS,0,0
-7/05/2004,2004,Randallstown,Maryland,suburban,HS,0,0
-7/05/2004,2004,Randallstown,Maryland,N/A,HS,0,4
-24/05/2004,2004,Salt Lake City,Utah,urban,HS,1,0
-1/06/2004,2004,St Croix,Virgin Islands,urban,HS,1,0
-30/08/2004,2004,Maywood,Illinois,suburban,HS,1,0
-4/10/2004,2004,Memphis,Tennessee,urban,HS,0,0
-22/11/2004,2004,Philadelphia,Pennsylvania,urban,HS,1,0
-10/12/2004,2004,Nine Mile Falls,Washington,suburban,HS,1,0
-6/01/2005,2005,Philadelphia,Pennsylvania,urban,HS,1,0
-8/02/2005,2005,Chicago,Illinois,N/A,HS,0,1
-2/03/2005,2005,Dover,Tennessee,N/A,HS,1,0
-21/03/2005,2005,Red Lake,Minnesota,rural,HS,10,0
-21/03/2005,2005,Red Lake,Minnesota,N/A,HS,10,7
-17/05/2005,2005,Lower Allen Township,Pennsylvania,suburban,ES,1,0
-13/09/2005,2005,Chicago,Illinois,urban,HS,0,0
-13/09/2005,2005,Chicago,Illinois,N/A,HS,0,1
-8/11/2005,2005,Jacksboro,Tennessee,rural,HS,1,0
-8/11/2005,2005,Jacksboro,Tennessee,N/A,HS,1,2
-13/01/2006,2006,Birmingham,Alabama,urban,HS,1,0
-13/01/2006,2006,Longwood,Florida,N/A,MS,0,1
-15/01/2006,2006,Longwood,Florida,suburban,MS,1,0
-23/02/2006,2006,Roseburg,Oregon,suburban,HS,1,0
-23/02/2006,2006,Roseburg,Oregon,N/A,HS,0,1
-14/03/2006,2006,Reno,Nevada,urban,MS,0,0
-14/03/2006,2006,Reno,Nevada,N/A,MS,0,2
-5/06/2006,2006,Venice,California,suburban,HS,1,0
-24/08/2006,2006,Essex,Vermont,suburban,ES,2,0
-24/08/2006,2006,Essex Junction,Vermont,N/A,ES,2,3
-30/08/2006,2006,Hillsborough,North Carolina,suburban,HS,3,0
-30/08/2006,2006,Hillsborough,North Carolina,N/A,HS,0,2
-2/09/2006,2006,Shepherdstown,West Virginia,suburban,C,2,0
-2/09/2006,2006,Shepherdstown,West Virginia,N/A,C,3,0
-17/09/2006,2006,Pittsburgh,Pennsylvania,urban,C,0,0
-17/09/2006,2006,Pittsburgh,Pennsylvania,N/A,-,0,5
-27/09/2006,2006,Bailey,Colorado,suburban,HS,1,0
-27/09/2006,2006,Bailey,Colorado,N/A,HS,2,0
-29/09/2006,2006,Cazenovia,Wisconsin,rural,HS,1,0
-29/09/2006,2006,Cazenovia,Wisconsin,N/A,HS,1,0
-2/10/2006,2006,Nickel Mines,Pennsylvania,rural,HS,5,0
-2/10/2006,2006,Nickel Mines,Pennsylvania,N/A,HS,6,3
-9/10/2006,2006,Joplin,Missouri,urban,MS,0,0
-9/10/2006,2006,Joplin,Missouri,N/A,MS,0,0
-17/10/2006,2006,Katy,Texas,suburban,HS,1,0
-29/10/2006,2006,Fresno,California,urban,ES,1,0
-28/11/2006,2006,Houston,Texas,urban,HS,1,0
-12/12/2006,2006,Erdenheim,Pennsylvania,rural,MS,1,0
-3/01/2007,2007,Tacoma,Washington,urban,HS,1,0
-3/01/2007,2007,Tacoma,Washington,N/A,HS,1,0
-8/02/2007,2007,Prineville,Oregon,suburban,HS,1,0
-7/03/2007,2007,Midland,Michigan,urban,HS,0,0
-7/03/2007,2007,Greenville,Texas,suburban,HS,0,0
-7/03/2007,2007,Compton,California,N/A,HS,0,1
-24/03/2007,2007,Greensboro,North Carolina,urban,C,0,0
-2/04/2007,2007,Seattle,Washington,urban,C,1,0
-10/04/2007,2007,Gresham,Oregon,urban,HS,0,0
-16/04/2007,2007,Blacksburg,Virginia,urban,C,32,0
-16/04/2007,2007,Blacksburg,Virginia,N/A,C,33,23
-21/09/2007,2007,Dover,Delaware,urban,C,1,0
-28/09/2007,2007,Oroville,California,suburban,HS,0,0
-30/09/2007,2007,Memphis,Tennessee,urban,C,1,0
-10/10/2007,2007,Cleveland,Ohio,urban,HS,0,0
-10/10/2007,2007,Cleveland,Ohio,N/A,HS,1,4
-6/11/2007,2007,Miami Gardens,Florida,N/A,HS,0,1
-15/01/2008,2008,Putnam City,Oklahoma,suburban,HS,0,0
-16/01/2008,2008,Cleveland,Ohio,urban,HS,0,0
-16/01/2008,2008,Charlotte,North Carolina,urban,HS,0,0
-4/02/2008,2008,Memphis,Tennessee,urban,HS,0,0
-4/02/2008,2008,Memphis,Tennessee,N/A,HS,0,1
-7/02/2008,2008,Portsmouth,Ohio,suburban,ES,0,0
-8/02/2008,2008,Baton Rouge,Louisiana,urban,C,3,0
-8/02/2008,2008,Baton Rouge,Louisiana,N/A,C,3,0
-11/02/2008,2008,Memphis,Tennessee,urban,HS,0,0
-11/02/2008,2008,Memphis,Tennessee,N/A,HS,0,1
-12/02/2008,2008,Oxnard,California,urban,MS,1,0
-12/02/2008,2008,Oxnard,California,N/A,HS,1,0
-14/02/2008,2008,DeKalb,Illinois,urban,C,5,0
-14/02/2008,2008,DeKalb,Illinois,N/A,C,6,21
-23/02/2008,2008,Jonesboro,Arkansas,urban,C,0,0
-27/02/2008,2008,Little Rock,Arkansas,urban,C,0,0
-28/02/2008,2008,Miami Gardens,Florida,urban,HS,0,0
-6/03/2008,2008,Mobile,Alabama,urban,HS,1,0
-7/03/2008,2008,Chicago,Illinois,urban,HS,1,0
-5/04/2008,2008,Chicago,Illinois,urban,HS,1,0
-16/04/2008,2008,Fresno,California,urban,HS,1,0
-24/04/2008,2008,Omaha,Nebraska,urban,MS,0,0
-29/04/2008,2008,Washington,District of Columbia,urban,C,0,0
-24/07/2008,2008,Phoenix,Arizona,urban,C,0,0
-14/08/2008,2008,Federal Way,Washington,urban,MS,1,0
-14/08/2008,2008,Federal Way,Washington,N/A,MS,1,0
-21/08/2008,2008,Knoxville,Tennessee,urban,HS,1,0
-21/08/2008,2008,Knoxville,Tennessee,N/A,HS,1,0
-29/08/2008,2008,Portland,Oregon,urban,HS,0,0
-2/09/2008,2008,Willoughby,Ohio,suburban,HS,0,0
-2/09/2008,2008,Willoughby,Ohio,N/A,HS,0,0
-13/10/2008,2008,San Antonio,Texas,urban,C,1,0
-16/10/2008,2008,Detroit,Michigan,urban,HS,1,0
-16/10/2008,2008,Detroit,Michigan,N/A,HS,1,3
-20/10/2008,2008,Acton,California,suburban,HS,1,0
-21/10/2008,2008,Indianapolis,Indiana,urban,HS,1,0
-26/10/2008,2008,Conway,Arkansas,urban,C,2,0
-26/10/2008,2008,Conway,Arkansas,N/A,C,2,1
-31/10/2008,2008,Stockton Springs,Maine,rural,ES,0,0
-12/11/2008,2008,Fort Lauderdale,Florida,urban,HS,1,0
-13/11/2008,2008,Fort Lauderdale,Florida,N/A,HS,1,0
-15/11/2008,2008,St. George,Utah,urban,HS,1,0
-21/11/2008,2008,Savannah,Georgia,urban,C,0,0
-8/01/2009,2009,New Castle,Delaware,suburban,HS,0,0
-9/01/2009,2009,Chicago,Illinois,urban,HS,0,0
-9/01/2009,2009,Chicago,Illinois,N/A,HS,0,5
-23/01/2009,2009,Cahokia,Illinois,suburban,HS,1,0
-7/02/2009,2009,Houston,Texas,urban,C,1,0
-11/02/2009,2009,El Monte,California,urban,ES,0,0
-17/02/2009,2009,Detroit,Michigan,urban,HS,0,0
-6/03/2009,2009,Fayetteville,North Carolina,urban,HS,0,0
-10/03/2009,2009,Jacksonville,Florida,urban,HS,2,0
-10/04/2009,2009,Dearborn,Michigan,urban,C,1,0
-24/04/2009,2009,Houston,Texas,urban,C,1,0
-26/04/2009,2009,Hampton,Virginia,urban,C,0,0
-26/04/2009,2009,Hampton,Virginia,N/A,C,0,3
-1/05/2009,2009,Sheboygan,Wisconsin,urban,HS,0,0
-5/05/2009,2009,Canandaigua,New York,suburban,HS,0,0
-18/05/2009,2009,Larose,Louisiana,suburban,MS,0,0
-18/05/2009,2009,Cambridge,Massachusetts,urban,C,1,0
-18/05/2009,2009,Cambridge,Massachusetts,N/A,C,1,0
-18/05/2009,2009,Larose,Louisiana,N/A,MS,1,0
-9/06/2009,2009,Lexington,Kentucky,urban,MS,1,0
-16/06/2009,2009,San Francisco,California,urban,HS,0,0
-16/06/2009,2009,San Francisco,California,N/A,HS,0,3
-24/06/2009,2009,Parkersburg,Iowa,rural,HS,1,0
-2/09/2009,2009,San Bruno,California,suburban,C,0,0
-3/09/2009,2009,Atlanta,Georgia,urban,C,1,0
-3/09/2009,2009,San Bruno,California,N/A,C,0,1
-8/09/2009,2009,Stamford,Connecticut,urban,HS,0,0
-14/09/2009,2009,Grand Rapids,Michigan,urban,HS,0,0
-16/09/2009,2009,Henrico,Virginia,urban,HS,0,0
-16/10/2009,2009,Carolina Forest,South Carolina,suburban,HS,1,0
-16/10/2009,2009,Conway,South Carolina,N/A,HS,1,0
-30/10/2009,2009,Long Beach,California,urban,HS,1,0
-16/11/2009,2009,Dallas,Texas,urban,ES,0,0
-2/12/2009,2009,Brockton,Massachusetts,urban,HS,0,0
-8/12/2009,2009,Woodbridge,Virginia,urban,C,0,0
-11/12/2009,2009,Shreveport,Louisiana,urban,HS,0,0
-7/01/2010,2010,Phoenix,Arizona,urban,HS,0,0
-20/01/2010,2010,Livingston,Alabama,suburban,HS,1,0
-5/02/2010,2010,Madison,Alabama,suburban,MS,1,0
-5/02/2010,2010,Madison,Alabama,N/A,MS,1,0
-10/02/2010,2010,Knoxville,Tennessee,urban,ES,0,0
-12/02/2010,2010,Huntsville,Alabama,urban,C,3,0
-12/02/2010,2010,Huntsville,Alabama,N/A,C,3,3
-19/02/2010,2010,DeKalb,Illinois,urban,C,0,0
-19/02/2010,2010,DeKalb,Illinois,N/A,C,0,1
-23/02/2010,2010,Littleton,Colorado,suburban,MS,0,0
-23/02/2010,2010,Littleton,Colorado,N/A,MS,0,2
-26/02/2010,2010,Tacoma,Washington,urban,ES,2,0
-9/03/2010,2010,Columbus,Ohio,urban,C,1,0
-9/03/2010,2010,Columbus,Ohio,N/A,C,1,1
-29/04/2010,2010,Portsmouth,Virginia,urban,HS,0,0
-18/05/2010,2010,South Gate,California,urban,HS,0,0
-31/08/2010,2010,Blountville,Tennessee,suburban,HS,1,0
-7/09/2010,2010,Detroit,Michigan,urban,HS,0,0
-8/09/2010,2010,Detroit,Michigan,N/A,HS,0,2
-16/09/2010,2010,Moss Bluff,Louisiana,suburban,MS,1,0
-21/09/2010,2010,Columbia,South Carolina,urban,HS,0,0
-28/09/2010,2010,Austin,Texas,urban,C,1,0
-28/09/2010,2010,Austin,Texas,N/A,C,1,0
-1/10/2010,2010,Salinas,California,urban,HS,1,0
-1/10/2010,2010,Salinas,California,N/A,HS,1,0
-3/10/2010,2010,Elizabeth City,North Carolina,suburban,C,1,0
-8/10/2010,2010,Carlsbad,California,urban,ES,0,0
-8/10/2010,2010,Carlsbad,California,N/A,ES,0,2
-25/10/2010,2010,Selma,Alabama,suburban,ES,0,0
-29/11/2010,2010,Marinette,Wisconsin,suburban,HS,0,0
-29/11/2010,2010,Marinette,Wisconsin,N/A,HS,1,0
-6/12/2010,2010,Aurora,Colorado,N/A,HS,0,1
-5/01/2011,2011,Omaha,Nebraska,urban,HS,1,0
-5/01/2011,2011,Omaha,Nebraska,N/A,HS,2,2
-18/01/2011,2011,Los Angeles,California,urban,HS,0,0
-2/02/2011,2011,Placerville,California,suburban,ES,1,0
-14/02/2011,2011,Murfreesboro,Tennessee,urban,C,0,0
-23/02/2011,2011,Los Angeles,California,urban,C,1,0
-25/03/2011,2011,Martinsville,Indiana,suburban,MS,0,0
-25/03/2011,2011,Martinsville,Indiana,N/A,MS,0,1
-31/03/2011,2011,Houston,Texas,urban,HS,1,0
-31/03/2011,2011,Houston,Texas,N/A,HS,1,5
-6/04/2011,2011,Opelika,Alabama,suburban,C,1,0
-13/04/2011,2011,Apopka,Florida,suburban,HS,0,0
-19/04/2011,2011,Houston,Texas,urban,ES,0,0
-23/05/2011,2011,Pearl City,Hawaii,suburban,MS,0,0
-23/05/2011,2011,Pearl City,Hawaii,N/A,MS,0,1
-26/08/2011,2011,Harper Woods,Michigan,suburban,HS,0,0
-24/10/2011,2011,Fayetteville,North Carolina,urban,HS,0,0
-24/10/2011,2011,Fayetteville,North Carolina,N/A,HS,0,1
-15/11/2011,2011,Berkeley,California,urban,C,0,0
-8/12/2011,2011,Blacksburg,Virginia,urban,C,1,0
-8/12/2011,2011,Blacksburg,Virginia,N/A,C,2,0
-9/12/2011,2011,Edinburg,Texas,urban,MS,0,0
-9/12/2011,2011,Edinburg,Texas,N/A,MS,0,2
-4/01/2012,2012,Brownsville,Texas,urban,MS,0,0
-10/01/2012,2012,Houston,Texas,urban,HS,0,0
-10/01/2012,2012,Houston,Texas,N/A,HS,0,1
-10/02/2012,2012,Walpole,New Hampshire,suburban,ES,0,0
-22/02/2012,2012,Bremerton,Washington,urban,ES,0,0
-27/02/2012,2012,Chardon,Ohio,suburban,HS,3,0
-27/02/2012,2012,Chardon,Ohio,N/A,HS,3,3
-6/03/2012,2012,Jacksonville,Florida,urban,HS,1,0
-6/03/2012,2012,Jacksonville,Florida,N/A,-,2,0
-24/03/2012,2012,Starkville,Mississippi,suburban,C,1,0
-2/04/2012,2012,Oakland,California,urban,C,7,0
-2/04/2012,2012,Oakland,California,N/A,C,7,3
-26/05/2012,2012,Chapel Hill,North Carolina,urban,ES,1,0
-16/08/2012,2012,Memphis,Tennessee,urban,HS,0,0
-16/08/2012,2012,Memphis,Tennessee,N/A,HS,0,2
-27/08/2012,2012,Perry Hall,Maryland,suburban,HS,0,0
-27/08/2012,2012,Perry Hall,Maryland,N/A,HS,0,1
-7/09/2012,2012,Normal,Illinois,urban,HS,0,0
-7/09/2012,2012,Normal,Illinois,N/A,HS,0,0
-12/09/2012,2012,Baltimore,Maryland,urban,C,0,0
-6/10/2012,2012,Mobile,Alabama,N/A,C,1,0
-19/10/2012,2012,Chicago,Illinois,N/A,HS,1,0
-31/10/2012,2012,Los Angeles,California,urban,C,0,0
-31/10/2012,2012,Los Angeles,California,N/A,C,0,4
-30/11/2012,2012,Baltimore,Maryland,urban,C,0,0
-14/12/2012,2012,Newtown,Connecticut,suburban,ES,27,0
-14/12/2012,2012,Newtown,Connecticut,N/A,ES,28,2
-7/01/2013,2013,Fort Myers,Florida,urban,ES,1,0
-7/01/2013,2013,Fort Myers,Florida,N/A,-,1,0
-10/01/2013,2013,Taft,California,suburban,HS,0,0
-10/01/2013,2013,Taft,California,N/A,HS,0,2
-12/01/2013,2013,Detroit,Michigan,N/A,HS,0,1
-15/01/2013,2013,Hazard,Kentucky,suburban,C,3,0
-15/01/2013,2013,St. Louis,Missouri,urban,C,0,0
-15/01/2013,2013,St. Louis,Missouri,N/A,C,0,2
-15/01/2013,2013,Hazard,Kentucky,N/A,C,3,0
-16/01/2013,2013,Chicago,Illinois,urban,C,0,0
-16/01/2013,2013,Chicago,Illinois,N/A,C,1,0
-22/01/2013,2013,Houston,Texas,urban,C,0,0
-22/01/2013,2013,Houston,Texas,N/A,C,0,3
-31/01/2013,2013,Phoenix,Arizona,urban,HS,0,0
-31/01/2013,2013,Atlanta,Georgia,urban,MS,0,0
-31/01/2013,2013,Phoenix,Arizona,N/A,HS,0,0
-31/01/2013,2013,Atlanta,Georgia,N/A,MS,0,2
-18/03/2013,2013,Orlando,Florida,urban,C,1,0
-18/03/2013,2013,Orlando,Florida,N/A,C,1,0
-12/04/2013,2013,Christiansburg,Virginia,suburban,C,0,0
-12/04/2013,2013,Dublin,Virginia,N/A,C,0,2
-16/04/2013,2013,Grambling,Louisiana,suburban,C,0,0
-16/04/2013,2013,Grambling,Louisiana,N/A,C,0,3
-18/04/2013,2013,Cambridge,Massachusetts,urban,C,2,0
-18/04/2013,2013,Cambridge,Massachusetts,N/A,C,2,1
-14/05/2013,2013,Birmingham,Alabama,urban,MS,0,0
-14/05/2013,2013,Birmingham,Alabama,N/A,MS,0,0
-7/06/2013,2013,Santa Monica,California,urban,C,6,0
-7/06/2013,2013,Santa Monica,California,N/A,C,6,4
-20/06/2013,2013,West Palm Beach,Florida,urban,HS,2,0
-20/08/2013,2013,Decatur,Georgia,suburban,ES,0,0
-20/08/2013,2013,Decatur,Georgia,N/A,-,0,0
-23/08/2013,2013,Sardis,Mississippi,rural,HS,1,0
-23/08/2013,2013,Sardis,Mississippi,N/A,HS,1,2
-30/08/2013,2013,Winston-Salem,North Carolina,urban,HS,0,0
-30/08/2013,2013,Winston-Salem,North Carolina,N/A,HS,0,1
-4/10/2013,2013,Pine Hills,Florida,urban,HS,0,0
-4/10/2013,2013,Pine Hills,Florida,N/A,HS,0,2
-21/10/2013,2013,Sparks,Nevada,urban,MS,2,0
-21/10/2013,2013,Sparks,Nevada,N/A,MS,2,2
-2/11/2013,2013,Greensboro,North Carolina,urban,C,0,0
-2/11/2013,2013,Greensboro,North Carolina,N/A,C,0,1
-3/11/2013,2013,Lithonia,Georgia,rural,HS,0,0
-3/11/2013,2013,Lithonia,Georgia,N/A,HS,0,2
-13/11/2013,2013,Pittsburgh,Pennsylvania,urban,HS,0,0
-13/11/2013,2013,Pittsburgh,Pennsylvania,N/A,HS,0,3
-4/12/2013,2013,Winter Garden,Florida,suburban,HS,0,0
-4/12/2013,2013,Winter Garden,Florida,N/A,HS,0,1
-13/12/2013,2013,Centennial,Colorado,suburban,HS,2,0
-13/12/2013,2013,Centennial,Colorado,N/A,HS,2,0
-19/12/2013,2013,Fresno,California,urban,HS,0,0
-19/12/2013,2013,Fresno,California,N/A,HS,0,1
-9/01/2014,2014,Jackson,Tennessee,N/A,HS,0,1
-13/01/2014,2014,New Haven,Connecticut,N/A,HS,0,1
-14/01/2014,2014,Roswell,New Mexico,N/A,MS,0,3
-17/01/2014,2014,Philadelphia,Pennsylvania,N/A,HS,0,2
-20/01/2014,2014,Chester,Pennsylvania,N/A,C,0,1
-21/01/2014,2014,West Lafayette,Indiana,N/A,C,1,0
-24/01/2014,2014,Orangeburg,South Carolina,N/A,C,1,0
-25/01/2014,2014,Los Angeles,California,N/A,C,1,0
-27/01/2014,2014,Carbondale,Illinois,N/A,HS,0,1
-28/01/2014,2014,Nashville,Tennessee,N/A,C,0,1
-30/01/2014,2014,Palm Bay,Florida,N/A,C,0,1
-31/01/2014,2014,Des Moines,Iowa,N/A,HS,0,1
-10/02/2014,2014,Salisbury,North Carolina,N/A,HS,0,1
-10/02/2014,2014,Lyndhurst,Ohio,N/A,HS,0,0
-12/02/2014,2014,Los Angeles,California,N/A,C,0,1
-22/02/2014,2014,Augusta,Georgia,N/A,C,0,1
-12/03/2014,2014,Miami,Florida,N/A,ES,1,0
-25/03/2014,2014,College Park,Georgia,N/A,HS,0,0
-9/04/2014,2014,Greenville,North Carolina,N/A,HS,0,0
-11/04/2014,2014,Detroit,Michigan,N/A,HS,1,0
-4/05/2014,2014,Augusta,Georgia,N/A,C,0,1
-5/05/2014,2014,Augusta,Georgia,N/A,C,0,1
-8/05/2014,2014,Lawrenceville,Georgia,N/A,C,0,1
-14/05/2014,2014,Richmond,California,N/A,HS,0,1
-5/06/2014,2014,Seattle,Washington,N/A,C,1,2
-10/06/2014,2014,Troutdale,Oregon,N/A,HS,2,1
-9/09/2014,2014,Miami,Florida,N/A,-,0,1
-27/09/2014,2014,Terre Haute,Indiana,N/A,C,0,1
-30/09/2014,2014,Albemarle,North Carolina,N/A,HS,0,1
-30/09/2014,2014,Louisville,Kentucky,N/A,HS,0,1
-3/10/2014,2014,Fairburn,Georgia,N/A,HS,1,0
-24/10/2014,2014,Marysville,Washington,N/A,HS,5,1
-20/11/2014,2014,Tallahassee,Florida,N/A,C,1,3
-20/11/2014,2014,Miami,Florida,N/A,HS,1,1
-5/12/2014,2014,Claremore,Oklahoma,N/A,C,1,0
-12/12/2014,2014,Portland,Oregon,N/A,HS,0,4
-15/01/2015,2015,Milwaukee,Wisconsin,N/A,HS,0,3
-16/01/2015,2015,Ocala,Florida,N/A,-,0,2
-4/02/2015,2015,Frederick,Maryland,N/A,HS,0,2
-14/02/2015,2015,Merced,California,N/A,MS,1,0
-23/02/2015,2015,Daytona Beach,Florida,N/A,C,0,3
-30/03/2015,2015,University City,Missouri,N/A,ES,0,1
-13/04/2015,2015,Goldsboro,North Carolina,N/A,C,1,0
-16/04/2015,2015,Paradis,Louisiana,N/A,MS,0,1
-27/04/2015,2015,Lacey,Washington,N/A,HS,0,0
-12/05/2015,2015,Jacksonville,Florida,N/A,HS,0,2
-24/05/2015,2015,Flint,Michigan,N/A,HS,0,7
-27/08/2015,2015,Savannah,Georgia,N/A,C,1,0
-3/09/2015,2015,Sacramento,California,N/A,C,1,2
-14/09/2015,2015,Cleveland,Mississippi,N/A,C,2,0
-30/09/2015,2015,Harrisburg,South Dakota,N/A,HS,0,1
-1/10/2015,2015,Roseburg,Oregon,N/A,C,10,9
-9/10/2015,2015,Flagstaff,Arizona,N/A,C,1,3
-9/10/2015,2015,Houston,Texas,N/A,C,1,1
-22/10/2015,2015,Nashville,Tennessee,N/A,C,1,3
-1/11/2015,2015,Winston-Salem,North Carolina,N/A,C,1,1
-20/11/2015,2015,North Las Vegas,Nevada,N/A,HS,1,0
-22/01/2016,2016,Indianapolis,Indiana,N/A,HS,0,1
-29/01/2016,2016,Philadelphia,Pennsylvania,N/A,HS,0,0
-9/02/2016,2016,Muskegon Heights,Michigan,N/A,HS,0,4
-12/02/2016,2016,Glendale,Arizona,N/A,HS,2,0
-29/02/2016,2016,Middletown,Ohio,N/A,HS,0,4
-23/04/2016,2016,Antigo,Wisconsin,N/A,HS,1,2
-1/06/2016,2016,Los Angeles,California,N/A,C,2,0
-8/06/2016,2016,Dorchester,Massachusetts,N/A,HS,1,3
-6/09/2016,2016,Cedar Rapids,Iowa,N/A,HS,1,0
-9/09/2016,2016,Alpine,Texas,N/A,HS,1,2
-28/09/2016,2016,Townville,South Carolina,N/A,ES,2,2
-11/10/2016,2016,Mobile,Alabama,N/A,HS,0,1
-13/10/2016,2016,Columbus,Ohio,N/A,HS,0,2
-18/10/2016,2016,San Francisco,California,N/A,HS,0,4
-25/10/2016,2016,Sandy,Utah,N/A,MS,0,1
-1/12/2016,2016,Bountiful,Utah,N/A,MS,0,0
-20/01/2017,2017,West Liberty,Ohio,N/A,HS,0,1
-20/01/2017,2017,Seattle,Washington,N/A,C,0,1
-21/03/2017,2017,King City,California,N/A,HS,0,1
-10/04/2017,2017,San Bernardino,California,N/A,ES,3,1
-4/05/2017,2017,Irving,Texas,N/A,C,2,0
-13/09/2017,2017,Rockford,Washington,N/A,HS,1,3
-20/09/2017,2017,Mattoon,Illinois,N/A,HS,0,1
-14/11/2017,2017,Rancho Tehama Reserve,California,N/A,ES,6,18
-7/12/2017,2017,Aztec,New Mexico,N/A,HS,3,0
-9/01/2018,2018,Forest City,Iowa,N/A,-,0,0
-20/01/2018,2018,Winston-Salem,North Carolina,N/A,C,1,0
-22/01/2018,2018,Italy,Texas,N/A,HS,0,1
-22/01/2018,2018,New Orleans,Louisiana,N/A,HS,0,1
-23/01/2018,2018,Marshall County,Kentucky,N/A,HS,2,18
-1/02/2018,2018,Los Angeles,California,N/A,MS,0,5
-14/02/2018,2018,Parkland,Florida,N/A,HS,17,14
-2/03/2018,2018,Mount Pleasant,Michigan,N/A,C,2,0
-7/03/2018,2018,Birmingham,Alabama,N/A,HS,1,2
-14/03/2018,2018,Birmingham,Alabama,N/A,C,2,1
-20/03/2018,2018,Great Mills,Maryland,N/A,HS,2,1
-20/04/2018,2018,Ocala,Florida,N/A,HS,0,1
-11/05/2018,2018,Palmdale,California,N/A,HS,0,1
-16/05/2018,2018,Dixon,Texas,N/A,HS,0,1
-18/05/2018,2018,Santa Fe,Texas,N/A,HS,10,10
-18/05/2018,2018,Jonesboro,Georgia,N/A,HS,1,3
-25/05/2018,2018,Nobelsville,Indiana,N/A,MS,0,2
-17/08/2018,2018,Wellington,Florida,N/A,HS,0,2
-30/08/2018,2018,San Francisco,California,N/A,HS,0,1
-5/09/2018,2018,Providence,Rhode Island,N/A,HS,1,1
-10/09/2018,2018,Memphis,Tennessee,N/A,HS,0,1
-11/09/2018,2018,Las Vegas,Nevada,N/A,HS,1,0
-29/10/2018,2018,Matthews,North Carolina,N/A,HS,1,1
-13/12/2018,2018,Richmond,Indiana,N/A,MS,1,0
-25/01/2019,2019,Mobile,Alabama,N/A,HS,0,2
-8/02/2019,2019,Baltimore,Maryland,N/A,HS,0,1
-12/02/2019,2019,Kansas City,Missouri,N/A,HS,1,0
-14/02/2019,2019,Rio Rancho,New Mexico,N/A,HS,0,0
-22/03/2019,2019,Blountville,Alabama,N/A,ES,0,1
-1/04/2019,2019,Prescott,Arizona,N/A,HS,0,1
-25/04/2019,2019,Dekalb,Georgia,N/A,ES,0,10
-30/04/2019,2019,Charlotte,North Carolina,N/A,C,2,4
-4/05/2019,2019,Eugene,Oregon,N/A,C,1,0
-6/05/2019,2019,Riverview,Florida,N/A,ES,0,0
-7/05/2019,2019,Highlands Ranch,Colorado,N/A,HS,1,7
-7/05/2019,2019,Savannah,Georgia,N/A,C,0,1
-8/08/2019,2019,Montgomery,Alabama,N/A,ES,0,0
-30/08/2019,2019,Mobile,Alabama,N/A,HS,0,10
-22/10/2019,2019,Santa Rosa,California,N/A,HS,0,1
-14/11/2019,2019,Santa Clarita,California,N/A,HS,2,4
-15/11/2019,2019,Pleasantville,New Jersey,N/A,HS,1,2
-23/11/2019,2019,Union City,California,N/A,ES,2,0
-2/12/2019,2019,Waukesha,Wisconsin,N/A,HS,0,1
-3/12/2019,2019,Oshkosh,Wisconsin,N/A,HS,0,2
-8/01/2020,2020,Belle Glade,Florida,N/A,HS,0,1
-11/01/2020,2020,Dallas,Texas,N/A,HS,1,1
-14/01/2020,2020,Bellaire,Texas,N/A,HS,1,0
-14/01/2020,2020,Fort Worth,Texas,N/A,HS,0,2
-23/01/2020,2020,Oxnard,California,N/A,ES,0,1
-3/02/2020,2020,Commerce,Texas,N/A,C,2,1
-16/09/2020,2020,Sonora,California,N/A,HS,1,0
+19/02/1997,1997,Bethel,Alaska,suburban,High School,2,0
+19/02/1997,1997,Bethel,Alaska,N/A,High School,2,2
+20/02/1997,1997,Jacksonville,Florida,urban,High School,1,0
+18/03/1997,1997,Detroit,Michigan,urban,High School,1,0
+1/10/1997,1997,Pearl,Mississippi,suburban,High School,3,0
+1/10/1997,1997,Pearl,Mississippi,N/A,High School,3,7
+14/10/1997,1997,Garland,Texas,urban,High School,1,0
+15/10/1997,1997,Palmetto,Florida,N/A,Middle School,0,1
+22/10/1997,1997,Norwalk,California,urban,High School,2,0
+13/11/1997,1997,Sacramento,California,urban,Elementary School,1,0
+1/12/1997,1997,West Paducah,Kentucky,suburban,High School,3,0
+1/12/1997,1997,West Paducah,Kentucky,N/A,High School,3,5
+15/12/1997,1997,Stamps,Arkansas,rural,High School,2,0
+15/12/1997,1997,Stamps,Arkansas,N/A,High School,0,2
+25/02/1998,1998,Reed City,Michigan,rural,High School,1,0
+1/03/1998,1998,Philadelphia,Pennsylvania,N/A,College,1,3
+24/03/1998,1998,Jonesboro,Arkansas,urban,Middle School,5,0
+24/03/1998,1998,Craighead County,Arkansas,N/A,Middle School,5,10
+25/03/1998,1998,Coldwater,Michigan,suburban,High School,1,0
+30/03/1998,1998,Chapel Hill,North Carolina,urban,Middle School,0,0
+24/04/1998,1998,Edinboro,Pennsylvania,suburban,High School,1,0
+24/04/1998,1998,Edinboro,Pennsylvania,N/A,Middle School,1,3
+28/04/1998,1998,Pomona,California,urban,Elementary School,2,0
+1/05/1998,1998,Buffalo,New York,urban,Elementary School,1,0
+19/05/1998,1998,Fayetteville,Tennessee,suburban,High School,1,0
+19/05/1998,1998,Fayetteville,Tennessee,N/A,High School,1,0
+21/05/1998,1998,Springfield,Oregon,urban,High School,4,0
+21/05/1998,1998,Rialto,California,urban,High School,1,0
+21/05/1998,1998,Springfield,Oregon,N/A,High School,4,23
+27/05/1998,1998,Pasadena,California,urban,Middle School,0,0
+29/05/1998,1998,Fort Lauderdale,Florida,urban,High School,2,0
+15/06/1998,1998,Richmond,Virginia,urban,High School,0,0
+15/06/1998,1998,Richmond,Virginia,N/A,High School,0,2
+4/09/1998,1998,San Bernardino,California,urban,College,2,0
+12/09/1998,1998,Glendale,California,urban,High School,0,0
+10/12/1998,1998,Detroit,Michigan,urban,College,1,0
+10/12/1998,1998,Detroit,Michigan,N/A,College,1,0
+8/01/1999,1999,Carollton,Georgia,suburban,High School,2,0
+8/01/1999,1999,Carrollton,Georgia,N/A,High School,1,1
+21/01/1999,1999,North Richland Hills,Texas,urban,High School,1,0
+11/02/1999,1999,Elgin,Illinois,urban,High School,0,0
+16/04/1999,1999,Notus,Idaho,rural,High School,0,0
+16/04/1999,1999,Notus,Idaho,N/A,High School,0,0
+20/04/1999,1999,Littleton,Colorado,suburban,High School,15,0
+20/04/1999,1999,Littleton,Colorado,N/A,High School,15,21
+23/04/1999,1999,Atlanta,Georgia,urban,Middle School,1,0
+20/05/1999,1999,Conyers,Georgia,suburban,High School,0,0
+20/05/1999,1999,Conyers,Georgia,N/A,High School,0,6
+25/08/1999,1999,Monticello,Georgia,suburban,High School,1,0
+7/09/1999,1999,Plano,Texas,urban,High School,1,0
+9/09/1999,1999,San Jose,California,urban,High School,1,0
+19/11/1999,1999,Deming,New Mexico,suburban,Middle School,0,0
+19/11/1999,1999,Deming,New Mexico,N/A,Middle School,1,0
+6/12/1999,1999,Fort Gibson,Oklahoma,suburban,Middle School,0,0
+6/12/1999,1999,Fort Gibson,Oklahoma,N/A,Middle School,0,6
+19/01/2000,2000,New Port Richey,Florida,suburban,High School,0,0
+29/02/2000,2000,Flint,Michigan,urban,Elementary School,1,0
+29/02/2000,2000,Flint,Michigan,N/A,Elementary School,1,0
+10/05/2000,2000,Sierra Vista,Arizona,urban,Elementary School,2,0
+26/05/2000,2000,Lake Worth,Florida,suburban,Middle School,1,0
+26/05/2000,2000,Lake Worth,Florida,N/A,Middle School,1,0
+28/06/2000,2000,Seattle,Washington,urban,College,2,0
+26/07/2000,2000,Canton,Ohio,urban,High School,1,0
+28/08/2000,2000,Fayetteville,Arkansas,urban,College,2,0
+28/08/2000,2000,Fayetteville,Arkansas,N/A,College,2,0
+5/09/2000,2000,Bidwell,Ohio,suburban,Elementary School,2,0
+26/09/2000,2000,New Orleans,Louisiana,urban,Middle School,0,0
+26/09/2000,2000,New Orleans,Louisiana,N/A,Unknown,0,2
+23/10/2000,2000,Los Angeles,California,urban,College,1,0
+26/10/2000,2000,Brooklyn,New York,urban,High School,1,0
+27/10/2000,2000,Memphis,Tennessee,urban,High School,1,0
+1/12/2000,2000,Granada Hills,California,urban,High School,0,0
+1/12/2000,2000,San Diego,California,N/A,High School,0,1
+10/01/2001,2001,Oxnard,California,urban,High School,1,0
+17/01/2001,2001,Baltimore,Maryland,urban,High School,1,0
+29/01/2001,2001,Arlington,Texas,urban,Middle School,1,0
+2/03/2001,2001,San Diego,California,urban,High School,0,0
+5/03/2001,2001,Santee,California,urban,High School,2,0
+5/03/2001,2001,Santee,California,N/A,High School,2,13
+7/03/2001,2001,Williamsport,Pennsylvania,urban,High School,0,0
+7/03/2001,2001,Williamsport,Pennsylvania,N/A,High School,0,1
+22/03/2001,2001,El Cajon,California,urban,High School,0,0
+22/03/2001,2001,El Cajon,California,N/A,High School,0,5
+30/03/2001,2001,Gary,Indiana,urban,High School,1,0
+30/03/2001,2001,Gary,Indiana,N/A,High School,1,0
+3/04/2001,2001,Klein,Texas,urban,Middle School,0,0
+25/04/2001,2001,Cleveland,Ohio,urban,High School,1,0
+15/05/2001,2001,Ennis,Texas,suburban,High School,0,0
+16/05/2001,2001,Parkland,Washington,N/A,College,2,0
+17/05/2001,2001,Pierce County,Washington,urban,College,1,0
+12/10/2001,2001,Taylorsville,Utah,urban,High School,0,0
+12/11/2001,2001,Caro,Michigan,suburban,High School,0,0
+15/01/2002,2002,New York City,New York,urban,High School,0,0
+15/01/2002,2002,New York City,New York,N/A,High School,0,2
+16/01/2002,2002,Gundy,Virginia,rural,College,3,0
+16/01/2002,2002,Grundy,Virginia,N/A,College,3,3
+20/02/2002,2002,Milwaukee,Wisconsin,N/A,High School,1,0
+11/06/2002,2002,Conception,Missouri,N/A,Unknown,3,2
+26/07/2002,2002,Charlotte,North Carolina,urban,Middle School,1,0
+4/10/2002,2002,San Antonio,Texas,urban,Middle School,1,0
+7/10/2002,2002,Bowie,Maryland,urban,Middle School,0,0
+7/10/2002,2002,Bowie,Maryland,N/A,Middle School,0,1
+28/10/2002,2002,Tucson,Arizona,urban,College,4,0
+28/10/2002,2002,Tucson,Arizona,N/A,College,4,0
+29/10/2002,2002,Jersey City,New Jersey,N/A,High School,0,1
+7/11/2002,2002,Liberty,Missouri,suburban,Elementary School,1,0
+16/12/2002,2002,Chicago,Illinois,urban,High School,1,0
+23/03/2003,2003,Meridian,Mississippi,suburban,High School,0,0
+10/04/2003,2003,Walnut,California,suburban,High School,0,0
+14/04/2003,2003,New Orleans,Louisiana,urban,High School,1,0
+14/04/2003,2003,New Orleans,Louisiana,N/A,High School,1,3
+17/04/2003,2003,Addison,Texas,suburban,Elementary School,1,0
+24/04/2003,2003,Red Lion,Pennsylvania,suburban,Middle School,1,0
+24/04/2003,2003,Red Lion,Pennsylvania,N/A,High School,2,0
+9/05/2003,2003,Cleveland,Ohio,urban,College,1,0
+9/05/2003,2003,Cleveland,Ohio,N/A,College,1,2
+13/05/2003,2003,Johnstown,Pennsylvania,urban,High School,1,0
+4/06/2003,2003,Wellsboro,Pennsylvania,suburban,Middle School,0,0
+15/07/2003,2003,Dallas,Texas,urban,High School,0,0
+24/09/2003,2003,Cold Spring,Minnesota,suburban,High School,2,0
+24/09/2003,2003,Cold Spring,Minnesota,N/A,High School,2,0
+30/10/2003,2003,Washington,District Of Columbia,urban,High School,1,0
+7/11/2003,2003,Sugar Land,Texas,urban,High School,1,0
+21/01/2004,2004,Henderson,Nevada,urban,Elementary School,1,0
+2/02/2004,2004,District of Columbia,District Of Columbia,urban,High School,1,0
+2/02/2004,2004,Washington,District of Columbia,N/A,High School,1,0
+9/02/2004,2004,East Greenbush,New York,suburban,High School,0,0
+9/02/2004,2004,East Greenbush,New York,N/A,Unknown,0,1
+11/02/2004,2004,Philadelphia,Pennsylvania,urban,Elementary School,1,0
+17/03/2004,2004,Joyce,Washington,rural,Middle School,0,0
+7/05/2004,2004,Randallstown,Maryland,suburban,High School,0,0
+7/05/2004,2004,Randallstown,Maryland,N/A,High School,0,4
+24/05/2004,2004,Salt Lake City,Utah,urban,High School,1,0
+1/06/2004,2004,St Croix,Virgin Islands,urban,High School,1,0
+30/08/2004,2004,Maywood,Illinois,suburban,High School,1,0
+4/10/2004,2004,Memphis,Tennessee,urban,High School,0,0
+22/11/2004,2004,Philadelphia,Pennsylvania,urban,High School,1,0
+10/12/2004,2004,Nine Mile Falls,Washington,suburban,High School,1,0
+6/01/2005,2005,Philadelphia,Pennsylvania,urban,High School,1,0
+8/02/2005,2005,Chicago,Illinois,N/A,High School,0,1
+2/03/2005,2005,Dover,Tennessee,N/A,High School,1,0
+21/03/2005,2005,Red Lake,Minnesota,rural,High School,10,0
+21/03/2005,2005,Red Lake,Minnesota,N/A,High School,10,7
+17/05/2005,2005,Lower Allen Township,Pennsylvania,suburban,Elementary School,1,0
+13/09/2005,2005,Chicago,Illinois,urban,High School,0,0
+13/09/2005,2005,Chicago,Illinois,N/A,High School,0,1
+8/11/2005,2005,Jacksboro,Tennessee,rural,High School,1,0
+8/11/2005,2005,Jacksboro,Tennessee,N/A,High School,1,2
+13/01/2006,2006,Birmingham,Alabama,urban,High School,1,0
+13/01/2006,2006,Longwood,Florida,N/A,Middle School,0,1
+15/01/2006,2006,Longwood,Florida,suburban,Middle School,1,0
+23/02/2006,2006,Roseburg,Oregon,suburban,High School,1,0
+23/02/2006,2006,Roseburg,Oregon,N/A,High School,0,1
+14/03/2006,2006,Reno,Nevada,urban,Middle School,0,0
+14/03/2006,2006,Reno,Nevada,N/A,Middle School,0,2
+5/06/2006,2006,Venice,California,suburban,High School,1,0
+24/08/2006,2006,Essex,Vermont,suburban,Elementary School,2,0
+24/08/2006,2006,Essex Junction,Vermont,N/A,Elementary School,2,3
+30/08/2006,2006,Hillsborough,North Carolina,suburban,High School,3,0
+30/08/2006,2006,Hillsborough,North Carolina,N/A,High School,0,2
+2/09/2006,2006,Shepherdstown,West Virginia,suburban,College,2,0
+2/09/2006,2006,Shepherdstown,West Virginia,N/A,College,3,0
+17/09/2006,2006,Pittsburgh,Pennsylvania,urban,College,0,0
+17/09/2006,2006,Pittsburgh,Pennsylvania,N/A,Unknown,0,5
+27/09/2006,2006,Bailey,Colorado,suburban,High School,1,0
+27/09/2006,2006,Bailey,Colorado,N/A,High School,2,0
+29/09/2006,2006,Cazenovia,Wisconsin,rural,High School,1,0
+29/09/2006,2006,Cazenovia,Wisconsin,N/A,High School,1,0
+2/10/2006,2006,Nickel Mines,Pennsylvania,rural,High School,5,0
+2/10/2006,2006,Nickel Mines,Pennsylvania,N/A,High School,6,3
+9/10/2006,2006,Joplin,Missouri,urban,Middle School,0,0
+9/10/2006,2006,Joplin,Missouri,N/A,Middle School,0,0
+17/10/2006,2006,Katy,Texas,suburban,High School,1,0
+29/10/2006,2006,Fresno,California,urban,Elementary School,1,0
+28/11/2006,2006,Houston,Texas,urban,High School,1,0
+12/12/2006,2006,Erdenheim,Pennsylvania,rural,Middle School,1,0
+3/01/2007,2007,Tacoma,Washington,urban,High School,1,0
+3/01/2007,2007,Tacoma,Washington,N/A,High School,1,0
+8/02/2007,2007,Prineville,Oregon,suburban,High School,1,0
+7/03/2007,2007,Midland,Michigan,urban,High School,0,0
+7/03/2007,2007,Greenville,Texas,suburban,High School,0,0
+7/03/2007,2007,Compton,California,N/A,High School,0,1
+24/03/2007,2007,Greensboro,North Carolina,urban,College,0,0
+2/04/2007,2007,Seattle,Washington,urban,College,1,0
+10/04/2007,2007,Gresham,Oregon,urban,High School,0,0
+16/04/2007,2007,Blacksburg,Virginia,urban,College,32,0
+16/04/2007,2007,Blacksburg,Virginia,N/A,College,33,23
+21/09/2007,2007,Dover,Delaware,urban,College,1,0
+28/09/2007,2007,Oroville,California,suburban,High School,0,0
+30/09/2007,2007,Memphis,Tennessee,urban,College,1,0
+10/10/2007,2007,Cleveland,Ohio,urban,High School,0,0
+10/10/2007,2007,Cleveland,Ohio,N/A,High School,1,4
+6/11/2007,2007,Miami Gardens,Florida,N/A,High School,0,1
+15/01/2008,2008,Putnam City,Oklahoma,suburban,High School,0,0
+16/01/2008,2008,Cleveland,Ohio,urban,High School,0,0
+16/01/2008,2008,Charlotte,North Carolina,urban,High School,0,0
+4/02/2008,2008,Memphis,Tennessee,urban,High School,0,0
+4/02/2008,2008,Memphis,Tennessee,N/A,High School,0,1
+7/02/2008,2008,Portsmouth,Ohio,suburban,Elementary School,0,0
+8/02/2008,2008,Baton Rouge,Louisiana,urban,College,3,0
+8/02/2008,2008,Baton Rouge,Louisiana,N/A,College,3,0
+11/02/2008,2008,Memphis,Tennessee,urban,High School,0,0
+11/02/2008,2008,Memphis,Tennessee,N/A,High School,0,1
+12/02/2008,2008,Oxnard,California,urban,Middle School,1,0
+12/02/2008,2008,Oxnard,California,N/A,High School,1,0
+14/02/2008,2008,DeKalb,Illinois,urban,College,5,0
+14/02/2008,2008,DeKalb,Illinois,N/A,College,6,21
+23/02/2008,2008,Jonesboro,Arkansas,urban,College,0,0
+27/02/2008,2008,Little Rock,Arkansas,urban,College,0,0
+28/02/2008,2008,Miami Gardens,Florida,urban,High School,0,0
+6/03/2008,2008,Mobile,Alabama,urban,High School,1,0
+7/03/2008,2008,Chicago,Illinois,urban,High School,1,0
+5/04/2008,2008,Chicago,Illinois,urban,High School,1,0
+16/04/2008,2008,Fresno,California,urban,High School,1,0
+24/04/2008,2008,Omaha,Nebraska,urban,Middle School,0,0
+29/04/2008,2008,Washington,District of Columbia,urban,College,0,0
+24/07/2008,2008,Phoenix,Arizona,urban,College,0,0
+14/08/2008,2008,Federal Way,Washington,urban,Middle School,1,0
+14/08/2008,2008,Federal Way,Washington,N/A,Middle School,1,0
+21/08/2008,2008,Knoxville,Tennessee,urban,High School,1,0
+21/08/2008,2008,Knoxville,Tennessee,N/A,High School,1,0
+29/08/2008,2008,Portland,Oregon,urban,High School,0,0
+2/09/2008,2008,Willoughby,Ohio,suburban,High School,0,0
+2/09/2008,2008,Willoughby,Ohio,N/A,High School,0,0
+13/10/2008,2008,San Antonio,Texas,urban,College,1,0
+16/10/2008,2008,Detroit,Michigan,urban,High School,1,0
+16/10/2008,2008,Detroit,Michigan,N/A,High School,1,3
+20/10/2008,2008,Acton,California,suburban,High School,1,0
+21/10/2008,2008,Indianapolis,Indiana,urban,High School,1,0
+26/10/2008,2008,Conway,Arkansas,urban,College,2,0
+26/10/2008,2008,Conway,Arkansas,N/A,College,2,1
+31/10/2008,2008,Stockton Springs,Maine,rural,Elementary School,0,0
+12/11/2008,2008,Fort Lauderdale,Florida,urban,High School,1,0
+13/11/2008,2008,Fort Lauderdale,Florida,N/A,High School,1,0
+15/11/2008,2008,St. George,Utah,urban,High School,1,0
+21/11/2008,2008,Savannah,Georgia,urban,College,0,0
+8/01/2009,2009,New Castle,Delaware,suburban,High School,0,0
+9/01/2009,2009,Chicago,Illinois,urban,High School,0,0
+9/01/2009,2009,Chicago,Illinois,N/A,High School,0,5
+23/01/2009,2009,Cahokia,Illinois,suburban,High School,1,0
+7/02/2009,2009,Houston,Texas,urban,College,1,0
+11/02/2009,2009,El Monte,California,urban,Elementary School,0,0
+17/02/2009,2009,Detroit,Michigan,urban,High School,0,0
+6/03/2009,2009,Fayetteville,North Carolina,urban,High School,0,0
+10/03/2009,2009,Jacksonville,Florida,urban,High School,2,0
+10/04/2009,2009,Dearborn,Michigan,urban,College,1,0
+24/04/2009,2009,Houston,Texas,urban,College,1,0
+26/04/2009,2009,Hampton,Virginia,urban,College,0,0
+26/04/2009,2009,Hampton,Virginia,N/A,College,0,3
+1/05/2009,2009,Sheboygan,Wisconsin,urban,High School,0,0
+5/05/2009,2009,Canandaigua,New York,suburban,High School,0,0
+18/05/2009,2009,Larose,Louisiana,suburban,Middle School,0,0
+18/05/2009,2009,Cambridge,Massachusetts,urban,College,1,0
+18/05/2009,2009,Cambridge,Massachusetts,N/A,College,1,0
+18/05/2009,2009,Larose,Louisiana,N/A,Middle School,1,0
+9/06/2009,2009,Lexington,Kentucky,urban,Middle School,1,0
+16/06/2009,2009,San Francisco,California,urban,High School,0,0
+16/06/2009,2009,San Francisco,California,N/A,High School,0,3
+24/06/2009,2009,Parkersburg,Iowa,rural,High School,1,0
+2/09/2009,2009,San Bruno,California,suburban,College,0,0
+3/09/2009,2009,Atlanta,Georgia,urban,College,1,0
+3/09/2009,2009,San Bruno,California,N/A,College,0,1
+8/09/2009,2009,Stamford,Connecticut,urban,High School,0,0
+14/09/2009,2009,Grand Rapids,Michigan,urban,High School,0,0
+16/09/2009,2009,Henrico,Virginia,urban,High School,0,0
+16/10/2009,2009,Carolina Forest,South Carolina,suburban,High School,1,0
+16/10/2009,2009,Conway,South Carolina,N/A,High School,1,0
+30/10/2009,2009,Long Beach,California,urban,High School,1,0
+16/11/2009,2009,Dallas,Texas,urban,Elementary School,0,0
+2/12/2009,2009,Brockton,Massachusetts,urban,High School,0,0
+8/12/2009,2009,Woodbridge,Virginia,urban,College,0,0
+11/12/2009,2009,Shreveport,Louisiana,urban,High School,0,0
+7/01/2010,2010,Phoenix,Arizona,urban,High School,0,0
+20/01/2010,2010,Livingston,Alabama,suburban,High School,1,0
+5/02/2010,2010,Madison,Alabama,suburban,Middle School,1,0
+5/02/2010,2010,Madison,Alabama,N/A,Middle School,1,0
+10/02/2010,2010,Knoxville,Tennessee,urban,Elementary School,0,0
+12/02/2010,2010,Huntsville,Alabama,urban,College,3,0
+12/02/2010,2010,Huntsville,Alabama,N/A,College,3,3
+19/02/2010,2010,DeKalb,Illinois,urban,College,0,0
+19/02/2010,2010,DeKalb,Illinois,N/A,College,0,1
+23/02/2010,2010,Littleton,Colorado,suburban,Middle School,0,0
+23/02/2010,2010,Littleton,Colorado,N/A,Middle School,0,2
+26/02/2010,2010,Tacoma,Washington,urban,Elementary School,2,0
+9/03/2010,2010,Columbus,Ohio,urban,College,1,0
+9/03/2010,2010,Columbus,Ohio,N/A,College,1,1
+29/04/2010,2010,Portsmouth,Virginia,urban,High School,0,0
+18/05/2010,2010,South Gate,California,urban,High School,0,0
+31/08/2010,2010,Blountville,Tennessee,suburban,High School,1,0
+7/09/2010,2010,Detroit,Michigan,urban,High School,0,0
+8/09/2010,2010,Detroit,Michigan,N/A,High School,0,2
+16/09/2010,2010,Moss Bluff,Louisiana,suburban,Middle School,1,0
+21/09/2010,2010,Columbia,South Carolina,urban,High School,0,0
+28/09/2010,2010,Austin,Texas,urban,College,1,0
+28/09/2010,2010,Austin,Texas,N/A,College,1,0
+1/10/2010,2010,Salinas,California,urban,High School,1,0
+1/10/2010,2010,Salinas,California,N/A,High School,1,0
+3/10/2010,2010,Elizabeth City,North Carolina,suburban,College,1,0
+8/10/2010,2010,Carlsbad,California,urban,Elementary School,0,0
+8/10/2010,2010,Carlsbad,California,N/A,Elementary School,0,2
+25/10/2010,2010,Selma,Alabama,suburban,Elementary School,0,0
+29/11/2010,2010,Marinette,Wisconsin,suburban,High School,0,0
+29/11/2010,2010,Marinette,Wisconsin,N/A,High School,1,0
+6/12/2010,2010,Aurora,Colorado,N/A,High School,0,1
+5/01/2011,2011,Omaha,Nebraska,urban,High School,1,0
+5/01/2011,2011,Omaha,Nebraska,N/A,High School,2,2
+18/01/2011,2011,Los Angeles,California,urban,High School,0,0
+2/02/2011,2011,Placerville,California,suburban,Elementary School,1,0
+14/02/2011,2011,Murfreesboro,Tennessee,urban,College,0,0
+23/02/2011,2011,Los Angeles,California,urban,College,1,0
+25/03/2011,2011,Martinsville,Indiana,suburban,Middle School,0,0
+25/03/2011,2011,Martinsville,Indiana,N/A,Middle School,0,1
+31/03/2011,2011,Houston,Texas,urban,High School,1,0
+31/03/2011,2011,Houston,Texas,N/A,High School,1,5
+6/04/2011,2011,Opelika,Alabama,suburban,College,1,0
+13/04/2011,2011,Apopka,Florida,suburban,High School,0,0
+19/04/2011,2011,Houston,Texas,urban,Elementary School,0,0
+23/05/2011,2011,Pearl City,Hawaii,suburban,Middle School,0,0
+23/05/2011,2011,Pearl City,Hawaii,N/A,Middle School,0,1
+26/08/2011,2011,Harper Woods,Michigan,suburban,High School,0,0
+24/10/2011,2011,Fayetteville,North Carolina,urban,High School,0,0
+24/10/2011,2011,Fayetteville,North Carolina,N/A,High School,0,1
+15/11/2011,2011,Berkeley,California,urban,College,0,0
+8/12/2011,2011,Blacksburg,Virginia,urban,College,1,0
+8/12/2011,2011,Blacksburg,Virginia,N/A,College,2,0
+9/12/2011,2011,Edinburg,Texas,urban,Middle School,0,0
+9/12/2011,2011,Edinburg,Texas,N/A,Middle School,0,2
+4/01/2012,2012,Brownsville,Texas,urban,Middle School,0,0
+10/01/2012,2012,Houston,Texas,urban,High School,0,0
+10/01/2012,2012,Houston,Texas,N/A,High School,0,1
+10/02/2012,2012,Walpole,New Hampshire,suburban,Elementary School,0,0
+22/02/2012,2012,Bremerton,Washington,urban,Elementary School,0,0
+27/02/2012,2012,Chardon,Ohio,suburban,High School,3,0
+27/02/2012,2012,Chardon,Ohio,N/A,High School,3,3
+6/03/2012,2012,Jacksonville,Florida,urban,High School,1,0
+6/03/2012,2012,Jacksonville,Florida,N/A,Unknown,2,0
+24/03/2012,2012,Starkville,Mississippi,suburban,College,1,0
+2/04/2012,2012,Oakland,California,urban,College,7,0
+2/04/2012,2012,Oakland,California,N/A,College,7,3
+26/05/2012,2012,Chapel Hill,North Carolina,urban,Elementary School,1,0
+16/08/2012,2012,Memphis,Tennessee,urban,High School,0,0
+16/08/2012,2012,Memphis,Tennessee,N/A,High School,0,2
+27/08/2012,2012,Perry Hall,Maryland,suburban,High School,0,0
+27/08/2012,2012,Perry Hall,Maryland,N/A,High School,0,1
+7/09/2012,2012,Normal,Illinois,urban,High School,0,0
+7/09/2012,2012,Normal,Illinois,N/A,High School,0,0
+12/09/2012,2012,Baltimore,Maryland,urban,College,0,0
+6/10/2012,2012,Mobile,Alabama,N/A,College,1,0
+19/10/2012,2012,Chicago,Illinois,N/A,High School,1,0
+31/10/2012,2012,Los Angeles,California,urban,College,0,0
+31/10/2012,2012,Los Angeles,California,N/A,College,0,4
+30/11/2012,2012,Baltimore,Maryland,urban,College,0,0
+14/12/2012,2012,Newtown,Connecticut,suburban,Elementary School,27,0
+14/12/2012,2012,Newtown,Connecticut,N/A,Elementary School,28,2
+7/01/2013,2013,Fort Myers,Florida,urban,Elementary School,1,0
+7/01/2013,2013,Fort Myers,Florida,N/A,Unknown,1,0
+10/01/2013,2013,Taft,California,suburban,High School,0,0
+10/01/2013,2013,Taft,California,N/A,High School,0,2
+12/01/2013,2013,Detroit,Michigan,N/A,High School,0,1
+15/01/2013,2013,Hazard,Kentucky,suburban,College,3,0
+15/01/2013,2013,St. Louis,Missouri,urban,College,0,0
+15/01/2013,2013,St. Louis,Missouri,N/A,College,0,2
+15/01/2013,2013,Hazard,Kentucky,N/A,College,3,0
+16/01/2013,2013,Chicago,Illinois,urban,College,0,0
+16/01/2013,2013,Chicago,Illinois,N/A,College,1,0
+22/01/2013,2013,Houston,Texas,urban,College,0,0
+22/01/2013,2013,Houston,Texas,N/A,College,0,3
+31/01/2013,2013,Phoenix,Arizona,urban,High School,0,0
+31/01/2013,2013,Atlanta,Georgia,urban,Middle School,0,0
+31/01/2013,2013,Phoenix,Arizona,N/A,High School,0,0
+31/01/2013,2013,Atlanta,Georgia,N/A,Middle School,0,2
+18/03/2013,2013,Orlando,Florida,urban,College,1,0
+18/03/2013,2013,Orlando,Florida,N/A,College,1,0
+12/04/2013,2013,Christiansburg,Virginia,suburban,College,0,0
+12/04/2013,2013,Dublin,Virginia,N/A,College,0,2
+16/04/2013,2013,Grambling,Louisiana,suburban,College,0,0
+16/04/2013,2013,Grambling,Louisiana,N/A,College,0,3
+18/04/2013,2013,Cambridge,Massachusetts,urban,College,2,0
+18/04/2013,2013,Cambridge,Massachusetts,N/A,College,2,1
+14/05/2013,2013,Birmingham,Alabama,urban,Middle School,0,0
+14/05/2013,2013,Birmingham,Alabama,N/A,Middle School,0,0
+7/06/2013,2013,Santa Monica,California,urban,College,6,0
+7/06/2013,2013,Santa Monica,California,N/A,College,6,4
+20/06/2013,2013,West Palm Beach,Florida,urban,High School,2,0
+20/08/2013,2013,Decatur,Georgia,suburban,Elementary School,0,0
+20/08/2013,2013,Decatur,Georgia,N/A,Unknown,0,0
+23/08/2013,2013,Sardis,Mississippi,rural,High School,1,0
+23/08/2013,2013,Sardis,Mississippi,N/A,High School,1,2
+30/08/2013,2013,Winston-Salem,North Carolina,urban,High School,0,0
+30/08/2013,2013,Winston-Salem,North Carolina,N/A,High School,0,1
+4/10/2013,2013,Pine Hills,Florida,urban,High School,0,0
+4/10/2013,2013,Pine Hills,Florida,N/A,High School,0,2
+21/10/2013,2013,Sparks,Nevada,urban,Middle School,2,0
+21/10/2013,2013,Sparks,Nevada,N/A,Middle School,2,2
+2/11/2013,2013,Greensboro,North Carolina,urban,College,0,0
+2/11/2013,2013,Greensboro,North Carolina,N/A,College,0,1
+3/11/2013,2013,Lithonia,Georgia,rural,High School,0,0
+3/11/2013,2013,Lithonia,Georgia,N/A,High School,0,2
+13/11/2013,2013,Pittsburgh,Pennsylvania,urban,High School,0,0
+13/11/2013,2013,Pittsburgh,Pennsylvania,N/A,High School,0,3
+4/12/2013,2013,Winter Garden,Florida,suburban,High School,0,0
+4/12/2013,2013,Winter Garden,Florida,N/A,High School,0,1
+13/12/2013,2013,Centennial,Colorado,suburban,High School,2,0
+13/12/2013,2013,Centennial,Colorado,N/A,High School,2,0
+19/12/2013,2013,Fresno,California,urban,High School,0,0
+19/12/2013,2013,Fresno,California,N/A,High School,0,1
+9/01/2014,2014,Jackson,Tennessee,N/A,High School,0,1
+13/01/2014,2014,New Haven,Connecticut,N/A,High School,0,1
+14/01/2014,2014,Roswell,New Mexico,N/A,Middle School,0,3
+17/01/2014,2014,Philadelphia,Pennsylvania,N/A,High School,0,2
+20/01/2014,2014,Chester,Pennsylvania,N/A,College,0,1
+21/01/2014,2014,West Lafayette,Indiana,N/A,College,1,0
+24/01/2014,2014,Orangeburg,South Carolina,N/A,College,1,0
+25/01/2014,2014,Los Angeles,California,N/A,College,1,0
+27/01/2014,2014,Carbondale,Illinois,N/A,High School,0,1
+28/01/2014,2014,Nashville,Tennessee,N/A,College,0,1
+30/01/2014,2014,Palm Bay,Florida,N/A,College,0,1
+31/01/2014,2014,Des Moines,Iowa,N/A,High School,0,1
+10/02/2014,2014,Salisbury,North Carolina,N/A,High School,0,1
+10/02/2014,2014,Lyndhurst,Ohio,N/A,High School,0,0
+12/02/2014,2014,Los Angeles,California,N/A,College,0,1
+22/02/2014,2014,Augusta,Georgia,N/A,College,0,1
+12/03/2014,2014,Miami,Florida,N/A,Elementary School,1,0
+25/03/2014,2014,College Park,Georgia,N/A,High School,0,0
+9/04/2014,2014,Greenville,North Carolina,N/A,High School,0,0
+11/04/2014,2014,Detroit,Michigan,N/A,High School,1,0
+4/05/2014,2014,Augusta,Georgia,N/A,College,0,1
+5/05/2014,2014,Augusta,Georgia,N/A,College,0,1
+8/05/2014,2014,Lawrenceville,Georgia,N/A,College,0,1
+14/05/2014,2014,Richmond,California,N/A,High School,0,1
+5/06/2014,2014,Seattle,Washington,N/A,College,1,2
+10/06/2014,2014,Troutdale,Oregon,N/A,High School,2,1
+9/09/2014,2014,Miami,Florida,N/A,Unknown,0,1
+27/09/2014,2014,Terre Haute,Indiana,N/A,College,0,1
+30/09/2014,2014,Albemarle,North Carolina,N/A,High School,0,1
+30/09/2014,2014,Louisville,Kentucky,N/A,High School,0,1
+3/10/2014,2014,Fairburn,Georgia,N/A,High School,1,0
+24/10/2014,2014,Marysville,Washington,N/A,High School,5,1
+20/11/2014,2014,Tallahassee,Florida,N/A,College,1,3
+20/11/2014,2014,Miami,Florida,N/A,High School,1,1
+5/12/2014,2014,Claremore,Oklahoma,N/A,College,1,0
+12/12/2014,2014,Portland,Oregon,N/A,High School,0,4
+15/01/2015,2015,Milwaukee,Wisconsin,N/A,High School,0,3
+16/01/2015,2015,Ocala,Florida,N/A,Unknown,0,2
+4/02/2015,2015,Frederick,Maryland,N/A,High School,0,2
+14/02/2015,2015,Merced,California,N/A,Middle School,1,0
+23/02/2015,2015,Daytona Beach,Florida,N/A,College,0,3
+30/03/2015,2015,University City,Missouri,N/A,Elementary School,0,1
+13/04/2015,2015,Goldsboro,North Carolina,N/A,College,1,0
+16/04/2015,2015,Paradis,Louisiana,N/A,Middle School,0,1
+27/04/2015,2015,Lacey,Washington,N/A,High School,0,0
+12/05/2015,2015,Jacksonville,Florida,N/A,High School,0,2
+24/05/2015,2015,Flint,Michigan,N/A,High School,0,7
+27/08/2015,2015,Savannah,Georgia,N/A,College,1,0
+3/09/2015,2015,Sacramento,California,N/A,College,1,2
+14/09/2015,2015,Cleveland,Mississippi,N/A,College,2,0
+30/09/2015,2015,Harrisburg,South Dakota,N/A,High School,0,1
+1/10/2015,2015,Roseburg,Oregon,N/A,College,10,9
+9/10/2015,2015,Flagstaff,Arizona,N/A,College,1,3
+9/10/2015,2015,Houston,Texas,N/A,College,1,1
+22/10/2015,2015,Nashville,Tennessee,N/A,College,1,3
+1/11/2015,2015,Winston-Salem,North Carolina,N/A,College,1,1
+20/11/2015,2015,North Las Vegas,Nevada,N/A,High School,1,0
+22/01/2016,2016,Indianapolis,Indiana,N/A,High School,0,1
+29/01/2016,2016,Philadelphia,Pennsylvania,N/A,High School,0,0
+9/02/2016,2016,Muskegon Heights,Michigan,N/A,High School,0,4
+12/02/2016,2016,Glendale,Arizona,N/A,High School,2,0
+29/02/2016,2016,Middletown,Ohio,N/A,High School,0,4
+23/04/2016,2016,Antigo,Wisconsin,N/A,High School,1,2
+1/06/2016,2016,Los Angeles,California,N/A,College,2,0
+8/06/2016,2016,Dorchester,Massachusetts,N/A,High School,1,3
+6/09/2016,2016,Cedar Rapids,Iowa,N/A,High School,1,0
+9/09/2016,2016,Alpine,Texas,N/A,High School,1,2
+28/09/2016,2016,Townville,South Carolina,N/A,Elementary School,2,2
+11/10/2016,2016,Mobile,Alabama,N/A,High School,0,1
+13/10/2016,2016,Columbus,Ohio,N/A,High School,0,2
+18/10/2016,2016,San Francisco,California,N/A,High School,0,4
+25/10/2016,2016,Sandy,Utah,N/A,Middle School,0,1
+1/12/2016,2016,Bountiful,Utah,N/A,Middle School,0,0
+20/01/2017,2017,West Liberty,Ohio,N/A,High School,0,1
+20/01/2017,2017,Seattle,Washington,N/A,College,0,1
+21/03/2017,2017,King City,California,N/A,High School,0,1
+10/04/2017,2017,San Bernardino,California,N/A,Elementary School,3,1
+4/05/2017,2017,Irving,Texas,N/A,College,2,0
+13/09/2017,2017,Rockford,Washington,N/A,High School,1,3
+20/09/2017,2017,Mattoon,Illinois,N/A,High School,0,1
+14/11/2017,2017,Rancho Tehama Reserve,California,N/A,Elementary School,6,18
+7/12/2017,2017,Aztec,New Mexico,N/A,High School,3,0
+9/01/2018,2018,Forest City,Iowa,N/A,Unknown,0,0
+20/01/2018,2018,Winston-Salem,North Carolina,N/A,College,1,0
+22/01/2018,2018,Italy,Texas,N/A,High School,0,1
+22/01/2018,2018,New Orleans,Louisiana,N/A,High School,0,1
+23/01/2018,2018,Marshall County,Kentucky,N/A,High School,2,18
+1/02/2018,2018,Los Angeles,California,N/A,Middle School,0,5
+14/02/2018,2018,Parkland,Florida,N/A,High School,17,14
+2/03/2018,2018,Mount Pleasant,Michigan,N/A,College,2,0
+7/03/2018,2018,Birmingham,Alabama,N/A,High School,1,2
+14/03/2018,2018,Birmingham,Alabama,N/A,College,2,1
+20/03/2018,2018,Great Mills,Maryland,N/A,High School,2,1
+20/04/2018,2018,Ocala,Florida,N/A,High School,0,1
+11/05/2018,2018,Palmdale,California,N/A,High School,0,1
+16/05/2018,2018,Dixon,Texas,N/A,High School,0,1
+18/05/2018,2018,Santa Fe,Texas,N/A,High School,10,10
+18/05/2018,2018,Jonesboro,Georgia,N/A,High School,1,3
+25/05/2018,2018,Nobelsville,Indiana,N/A,Middle School,0,2
+17/08/2018,2018,Wellington,Florida,N/A,High School,0,2
+30/08/2018,2018,San Francisco,California,N/A,High School,0,1
+5/09/2018,2018,Providence,Rhode Island,N/A,High School,1,1
+10/09/2018,2018,Memphis,Tennessee,N/A,High School,0,1
+11/09/2018,2018,Las Vegas,Nevada,N/A,High School,1,0
+29/10/2018,2018,Matthews,North Carolina,N/A,High School,1,1
+13/12/2018,2018,Richmond,Indiana,N/A,Middle School,1,0
+25/01/2019,2019,Mobile,Alabama,N/A,High School,0,2
+8/02/2019,2019,Baltimore,Maryland,N/A,High School,0,1
+12/02/2019,2019,Kansas City,Missouri,N/A,High School,1,0
+14/02/2019,2019,Rio Rancho,New Mexico,N/A,High School,0,0
+22/03/2019,2019,Blountville,Alabama,N/A,Elementary School,0,1
+1/04/2019,2019,Prescott,Arizona,N/A,High School,0,1
+25/04/2019,2019,Dekalb,Georgia,N/A,Elementary School,0,10
+30/04/2019,2019,Charlotte,North Carolina,N/A,College,2,4
+4/05/2019,2019,Eugene,Oregon,N/A,College,1,0
+6/05/2019,2019,Riverview,Florida,N/A,Elementary School,0,0
+7/05/2019,2019,Highlands Ranch,Colorado,N/A,High School,1,7
+7/05/2019,2019,Savannah,Georgia,N/A,College,0,1
+8/08/2019,2019,Montgomery,Alabama,N/A,Elementary School,0,0
+30/08/2019,2019,Mobile,Alabama,N/A,High School,0,10
+22/10/2019,2019,Santa Rosa,California,N/A,High School,0,1
+14/11/2019,2019,Santa Clarita,California,N/A,High School,2,4
+15/11/2019,2019,Pleasantville,New Jersey,N/A,High School,1,2
+23/11/2019,2019,Union City,California,N/A,Elementary School,2,0
+2/12/2019,2019,Waukesha,Wisconsin,N/A,High School,0,1
+3/12/2019,2019,Oshkosh,Wisconsin,N/A,High School,0,2
+8/01/2020,2020,Belle Glade,Florida,N/A,High School,0,1
+11/01/2020,2020,Dallas,Texas,N/A,High School,1,1
+14/01/2020,2020,Bellaire,Texas,N/A,High School,1,0
+14/01/2020,2020,Fort Worth,Texas,N/A,High School,0,2
+23/01/2020,2020,Oxnard,California,N/A,Elementary School,0,1
+3/02/2020,2020,Commerce,Texas,N/A,College,2,1
+16/09/2020,2020,Sonora,California,N/A,High School,1,0
