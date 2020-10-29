@@ -37,9 +37,10 @@
       "as": "Number_of_victims_per_10000_enrollments"
     }
   ],
-  "hconcat": [
+  "vconcat": [
+    
     {
-      "width":"container",
+      "width":800,
       "height": 800,
       "title": {"text": "School Shooting in USA From 1990 - 2020", "fontSize": 20},
       "layer": [
@@ -90,6 +91,8 @@
     },
 
     {
+      "width":800,
+      "height": 200,
       "data": {
           "url": "https://raw.githubusercontent.com/LongB40/FIT3179/main/Assignment/area_type.csv",
           "format": {"type": "csv"}
@@ -110,8 +113,8 @@
           "mark": {"type": "bar", "fill":"grey"},
           
           "encoding": {
-            "y": {"field": "State", "type": "nominal", "title": "State"},
-            "x": {"aggregate": "sum", "field": "Count of AreaType", "type": "quantitative", "stack": "normalize"},
+            "x": {"field": "State", "type": "nominal", "title": "State"},
+            "y": {"aggregate": "sum", "field": "Count of AreaType", "type": "quantitative", "stack": "normalize"},
             "color": {"field": "area_type", "type": "nominal", "title": "Area Type"},
             "opacity":{"value": 0.7}
           }
@@ -120,8 +123,8 @@
         {
           "mark": {"type": "bar"},
           "encoding": {
-            "y": {"field": "State", "type": "nominal", "title": "State"},
-            "x": {"aggregate": "sum", "field": "Count of AreaType", "type": "quantitative", "title": "Total Number of Incidents (normalized)", "stack": "normalize"},
+            "x": {"field": "State", "type": "nominal", "title": "State"},
+            "y": {"aggregate": "sum", "field": "Count of AreaType", "type": "quantitative", "title": "Total Number of Incidents (normalized)", "stack": "normalize"},
             "color": {"field": "area_type", "type": "nominal"},
             "opacity": {
                   "condition": {
