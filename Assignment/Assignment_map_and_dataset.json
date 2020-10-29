@@ -40,8 +40,8 @@
   "vconcat": [
     
     {
-      "width":800,
-      "height": 800,
+      "width":650,
+      "height": 650,
       "title": {"text": "School Shooting in USA From 1990 - 2020", "fontSize": 20},
       "layer": [
         {
@@ -91,7 +91,7 @@
     },
 
     {
-      "width":800,
+      "width":650,
       "height": 200,
       "data": {
           "url": "https://raw.githubusercontent.com/LongB40/FIT3179/main/Assignment/area_type.csv",
