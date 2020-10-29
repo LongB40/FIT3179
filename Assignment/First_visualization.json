@@ -7,6 +7,7 @@
       "feature": "ne_110m_admin_1_states_provinces"
     }
   },
+  "width": "container",
   "params": [
     {
       "name": "victims_range",
@@ -44,7 +45,6 @@
           "filter": "datum.Number_of_victims_per_10000_enrollments >= victims_range"
         }
       ],
-      "width":"container",
       "selection": {"pts": {"type": "multi", "fields": ["State"]}},
       "projection": {"type": "albersUsa"},
       "mark": {"type": "geoshape", "stroke": "dimgray"},
