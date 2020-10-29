@@ -36,7 +36,6 @@
       "as": "Number_of_victims_per_10000_enrollments"
     }
   ],
-  "title": {"text": "School Shooting in USA From 1990 - 2020", "fontSize": 20},
   "layer": [
     {"mark": {"type": "geoshape", "fill": "lightgrey"}},
     {
