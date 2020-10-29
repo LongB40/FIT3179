@@ -46,7 +46,6 @@
         }
       ],
       "width":"container",
-      "height": "container"
       "selection": {"pts": {"type": "multi", "fields": ["State"]}},
       "projection": {"type": "albersUsa"},
       "mark": {"type": "geoshape", "stroke": "dimgray"},
