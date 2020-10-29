@@ -91,7 +91,7 @@
     },
 
     {
-      "width":800,
+      "width":750,
       "height": 300,
       "data": {
           "url": "https://raw.githubusercontent.com/LongB40/FIT3179/main/Assignment/area_type.csv",
