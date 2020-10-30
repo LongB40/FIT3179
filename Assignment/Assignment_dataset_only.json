@@ -128,8 +128,8 @@
           "y2": 0,
           "gradient": "linear",
           "stops": [
-            {"offset": 0, "color": "white"},
-            {"offset": 1, "color": "grey"}
+            {"offset": 0, "color": "lightgray"},
+            {"offset": 1, "color": "darkgray"}
           ]
         },
         "interpolate": "natural"
