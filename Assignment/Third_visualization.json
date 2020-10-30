@@ -15,7 +15,7 @@
   "selection": {"brush": {"type": "interval", "encodings": ["x"]}},
   "mark": {
     "type": "area",
-    "line": {"color": "darkgreen"},
+    "line": {"color": "grey"},
     "color": {
       "x1": 1,
       "y1": 1,
@@ -23,8 +23,8 @@
       "y2": 0,
       "gradient": "linear",
       "stops": [
-        {"offset": 0, "color": "white"},
-        {"offset": 1, "color": "darkgreen"}
+        {"offset": 0, "color": "lightgray"},
+        {"offset": 1, "color": "darkgray"}
       ]
     },
     "interpolate": "natural"
